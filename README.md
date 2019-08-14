@@ -41,6 +41,7 @@
 
 ### 이 문서의 작성자
 * [이 하늘](mailto:lee.haneul@gmail.com)
+* [윤 재석](mailto:yjaeseok@gmail.com)
 ### 이 문서의 저작권 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
