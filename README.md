@@ -7,6 +7,7 @@
 | 2019.8.21 | [블록체인 게이밍 밋업 @ 해시드 라운지](https://www.onoffmix.com/event/190352) | 서울강남            | 게임, 블록체인, 암호화폐               | 무료 |
 | 2019.8.21 | [[마인즈랩]2019 maum.ai Seminar-마인즈랩의 최신 인공지능 엔진과 서비스](https://www.onoffmix.com/event/188061) | 서울중구 | 인공지능, AI, 딥러닝 | 유료 |
 | 2019.8.23 | [[시즌1] 2019 블록체인 인사이트 포럼 - 1회](https://www.onoffmix.com/event/188745) | 서울강남 | 블록체인, 리브라 | 유료 |
+| 2019.8.23 | [[8월] DevOps on NAVER Cloud Platform](https://event-us.kr/navercloudplatform/event/9168) | 서울강남 | Ncloud, Terrafrom, DevOps |  |
 | 2019.8.26 | [Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) | 서울강남 | Kotlin, JetBrains, Google | 유료 |
 | 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
 | 2019.8.27 | [[TOAST FORWARD]GAME TALK](https://www.onoffmix.com/event/189333) | 경기성남            | 글로벌서비스, 게임보안, Toast Gamebase | 무료 |
@@ -25,8 +26,10 @@
 | 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산서면 | 게임개발, 블록체인 | 유료 |
 | 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울강남 | 블록체인, 암호화폐, 비트코인 | 유료 |
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울강남 | 협업, IDE, git | 유료 |
+| 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  |
+| 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
 
 이 리스트에서 추가할 사항이 있으시거나
 오류가 있다면,  직접 수정하여 Pull Request를 날려주시면 감사하겠습니다.
