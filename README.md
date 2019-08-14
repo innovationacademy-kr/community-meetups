@@ -1,5 +1,5 @@
 # community-meetups
-| 날짜                              | 제목 | 장소&nbsp; | 주요주제 | 가격유무 |
+| 날짜                              | 제목 | 장소 | 주요주제 | 가격유무 |
 | ------------------------------------ | ---- | ---- | ---- | ------------------------------------ |
 | 2019.8.15 | [[Open Secure Lab] 제5회 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | 정보보안, 모의해킹, 취약점분석 | 무료 |
 | 2019.8.19 | [ML2 열린점심 - 머신러닝을 여행하는 개발자를 위한 안내소](https://festa.io/events/423) | 서울강남 | 머신러닝 | 무료 |
@@ -18,7 +18,7 @@
 | 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울송파            | 핀테크                                 | 무료 |
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
 | 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울서초            | 인공지능, 감성지능                     | 무료 |
-| 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울 강남 | IoT, TechMeetup | 무료 |
+| 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울강남 | IoT, TechMeetup | 무료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울서초            | 인공지능, 딥러닝, 스마트시티           | 무료 |
@@ -29,7 +29,7 @@
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  |
-| 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
+| 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
 
 이 리스트에서 추가할 사항이 있으시거나
 오류가 있다면,  직접 수정하여 Pull Request를 날려주시면 감사하겠습니다.
