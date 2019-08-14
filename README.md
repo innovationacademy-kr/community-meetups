@@ -23,6 +23,7 @@
 | 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울강남 | IoT, TechMeetup | 무료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
+| 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
 | 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울서초            | 인공지능, 딥러닝, 스마트시티           | 무료 |
 | 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울서초 | 범농협, AWS | 무료 |
 | 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산서면 | 게임개발, 블록체인 | 유료 |
