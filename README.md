@@ -2,6 +2,7 @@
 | 날짜                              | 제목 | 장소 | 주요주제 | 가격유무 |
 | ------------------------------------ | ---- | ---- | ---- | ------------------------------------ |
 | 2019.8.15 | [[Open Secure Lab] 제5회 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | 정보보안, 모의해킹, 취약점분석 | 무료 |
+| 2019.8.15 | [파이콘 한국 2019(15-16 스프린트, 15-16 튜토리얼, 17-18 컨퍼런스)](https://www.pycon.kr/) | 서울강남 | Python | 유료 |
 | 2019.8.19 | [ML2 열린점심 - 머신러닝을 여행하는 개발자를 위한 안내소](https://festa.io/events/423) | 서울강남 | 머신러닝 | 무료 |
 | 2019.8.20 | [DNN 기반 자연언어처리 이해 및 실습](https://www.onoffmix.com/event/189845) | 서울마포 | 자연어, 강화학습, AI비즈니스모델 | 무료 |
 | 2019.8.21 | [블록체인 게이밍 밋업 @ 해시드 라운지](https://www.onoffmix.com/event/190352) | 서울강남            | 게임, 블록체인, 암호화폐               | 무료 |
@@ -17,6 +18,7 @@
 | 2019.8.28 | [오송 바이오 인공지능 빅데이터 컨퍼런스](https://event-us.kr/acryl/event/9680) | 충북청주 | 인공지능, 의료기긱 | 무료 |
 | 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울송파            | 핀테크                                 | 무료 |
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
+| 2019.8.29 | [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/?fbclid=IwAR1FooxVIQlhnORQCZHxMmf4aJRQ5gXVuZZvlZifdrQAW51JXyXmagUIyy4) | 서울강남 | https://if.kakao.com/program | 무료 |
 | 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울서초            | 인공지능, 감성지능                     | 무료 |
 | 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울강남 | IoT, TechMeetup | 무료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
