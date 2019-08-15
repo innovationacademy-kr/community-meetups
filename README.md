@@ -42,6 +42,7 @@
 | 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울서초            | 인공지능, 감성지능                     | 무료 |
 | 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울강남 | IoT, TechMeetup | 무료 |
 | 2019.8.30 | [ICT콕 해커톤 "CoC-Hackathon"](https://www.onoffmix.com/event/190305) | 서울마포 | ICT, 기계학습, 공공데이터 | 무료 |
+| 2019.8.30-31 | [[AWSKRUG, AUSG 주관 해커톤] 2019 제 2회 Amathon :: 대학생 및 주니어 개발자, 디자이너 대상](https://amathon.ga) | 서울역삼 | AWS, 대학생, 해커톤 | 유료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
