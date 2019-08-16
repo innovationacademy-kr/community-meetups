@@ -56,6 +56,7 @@
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울강남 | 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 보안/인프라, 최적화, 머신러닝/AI, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
+| 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
