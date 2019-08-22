@@ -48,9 +48,11 @@
 | 2019.8.31 | [GDG Korea Android 안드로이드 탐구영역](https://festa.io/events/441) | 서울송파 | 안드로이드 테스트 | 무료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
+| 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
+| 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울송파 | kafka, elk, Apache, 네트워킹 | 유료 |
 | 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울서초            | 인공지능, 딥러닝, 스마트시티           | 무료 |
 | 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기정자            | 보안, 취약성분석           | 유료 |
 | 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울서초 | 범농협, AWS | 무료 |
@@ -60,6 +62,7 @@
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울강남 | 협업, IDE, git | 유료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
+| 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  무료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울강남 | 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 보안/인프라, 최적화, 머신러닝/AI, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
