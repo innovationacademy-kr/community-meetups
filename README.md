@@ -24,6 +24,7 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
+| 2019.8.5-25 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | AI, 모바일등 모든 주제               | 무료 |
 | 2019.8.21 | [블록체인 게이밍 밋업 @ 해시드 라운지](https://www.onoffmix.com/event/190352) | 서울강남            | 게임, 블록체인, 암호화폐               | 무료 |
 | 2019.8.21 | [[마인즈랩]2019 maum.ai Seminar-마인즈랩의 최신 인공지능 엔진과 서비스](https://www.onoffmix.com/event/188061) | 서울중구 | 인공지능, AI, 딥러닝 | 유료 |
 | 2019.8.23 | [[시즌1] 2019 블록체인 인사이트 포럼 - 1회](https://www.onoffmix.com/event/188745) | 서울강남 | 블록체인, 리브라 | 유료 |
