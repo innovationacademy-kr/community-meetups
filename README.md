@@ -34,6 +34,8 @@
 | 2019.8.27 | [Klaytn Developer Meetup](https://festa.io/events/418) | 서울강남 | Klaytn, BApp, 블록체인 | 무료 |
 | 2019.8.27 | [CircleCI Korea User Group 두번째 모임!](https://festa.io/events/417) | 서울강남 | CircleCI, DevOps, ArgoCD | 유료 |
 | 2019.8.27 | [AWSKRUG 보안 #security 소모임 - 2회차 (8월 27일)](https://www.meetup.com/ko-KR/awskrug/events/263766353/) | 서울강남 | AWS Cloud, Security, AWSKRUG | 유료 |
+| 2019.8.27 | [AI i-CON meet up](https://event-us.kr/aiiconmeetup/event/9921) | 서울강남 | 빅데이터, AI | 무료 |
+| 2019.8.27 | [스벤져스 에이블 - 커리어 전환편](https://event-us.kr/svengers/event/9616) | 서울강남 | 커리어, 전공, 네트워킹 | 유료 |
 | 2019.8.28 | [오송 바이오 인공지능 빅데이터 컨퍼런스](https://event-us.kr/acryl/event/9680) | 충북청주 | 인공지능, 의료기긱 | 무료 |
 | 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울송파            | 핀테크                                 | 무료 |
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
@@ -51,6 +53,7 @@
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
 | 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울송파 | kafka, elk, Apache, 네트워킹 | 유료 |
+| 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
 | 2019.9.6 | [쇼룸: 쇼핑 개발자를 부탁해](https://festa.io/events/440) | 서울강남 | Node.js/React, IaC, Ansible, k82 | 무료 |
 | 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울서초            | 인공지능, 딥러닝, 스마트시티           | 무료 |
 | 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기정자            | 보안, 취약성분석           | 유료 |
