@@ -63,6 +63,7 @@
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
+| 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울강남 | Bitcoin, BSV, crypto mining | 무료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울강남 | 머신러닝, 데이터사이언스, 대학생 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  무료 |
 | 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울강남 | 메디컬, 해커톤 | 무료 |
