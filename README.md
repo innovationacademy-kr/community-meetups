@@ -21,10 +21,13 @@
 
 ### 앞으로 있을 행사들 목록
 
+아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다.
+
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.8.5-25 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | AI, 모바일등 모든 주제               | 무료 |
+| 2019.8.5-12.15 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | AI, 모바일등 모든 주제               | 무료 |
+| 2019.8.24 | [[뱅크샐러드 컨퍼런스] 콘-샐러드](https://consalad.com/) | 서울여의도 | 파이썬 | 유료 |
 | 2019.8.26 | [Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) | 서울강남 | Kotlin, JetBrains, Google | 유료 |
 | 2019.8.26 | [AWSKRUG #Beginner 모임 (8월 26일)](https://www.meetup.com/ko-KR/awskrug/events/264181522/) | 서울강남 | AWS, AWS Cloud, AWSKRUG | 무료 |
 | 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
@@ -52,6 +55,7 @@
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
 | 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
+| 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | 머신러닝, AI, Speech | 무료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
