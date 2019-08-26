@@ -27,7 +27,6 @@
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.8.5-12.15 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | AI, 모바일등 모든 주제               | 무료 |
-| 2019.8.24 | [[뱅크샐러드 컨퍼런스] 콘-샐러드](https://consalad.com/) | 서울여의도 | 파이썬 | 유료 |
 | 2019.8.26 | [Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) | 서울강남 | Kotlin, JetBrains, Google | 유료 |
 | 2019.8.26 | [AWSKRUG #Beginner 모임 (8월 26일)](https://www.meetup.com/ko-KR/awskrug/events/264181522/) | 서울강남 | AWS, AWS Cloud, AWSKRUG | 무료 |
 | 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
