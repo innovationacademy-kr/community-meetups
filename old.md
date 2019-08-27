@@ -9,6 +9,8 @@
 | 2019.8.21 | [블록체인 게이밍 밋업 @ 해시드 라운지](https://www.onoffmix.com/event/190352) | 서울강남            | 게임, 블록체인, 암호화폐               | 무료 |
 | 2019.8.21 | [[마인즈랩]2019 maum.ai Seminar-마인즈랩의 최신 인공지능 엔진과 서비스](https://www.onoffmix.com/event/188061) | 서울중구 | 인공지능, AI, 딥러닝 | 유료 |
 | 2019.8.24 | [[뱅크샐러드 컨퍼런스] 콘-샐러드](https://consalad.com/) | 서울여의도 | 파이썬 | 유료 |
+| 2019.8.26 | [Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) | 서울강남 | Kotlin, JetBrains, Google | 유료 |
+| 2019.8.26 | [AWSKRUG #Beginner 모임 (8월 26일)](https://www.meetup.com/ko-KR/awskrug/events/264181522/) | 서울강남 | AWS, AWS Cloud, AWSKRUG | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
