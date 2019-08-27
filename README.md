@@ -26,7 +26,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.8.5-12.15 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | AI, 모바일등 모든 주제               | 무료 |
 | 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
 | 2019.8.27 | [[TOAST FORWARD]GAME TALK](https://www.onoffmix.com/event/189333) | 경기성남            | 글로벌서비스, 게임보안, Toast Gamebase | 무료 |
 | 2019.8.27 | [2019 호남정보보호 컨퍼런스 및 정보보호 역량강화 워크숍 개최](https://www.onoffmix.com/event/186695) | 전남나주 | 정보보호, AI, 인공지능 | 무료 |
@@ -71,6 +70,7 @@
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울강남 | 블록체인, Webank | 무료 |
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울용산 | 파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
+| 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울홍대 | 오픈소스, 블록체인, 프로젝트, 기타등등 | 무료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울강남 | Bitcoin, BSV, crypto mining | 무료 |
@@ -81,6 +81,7 @@
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울강남 | 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 보안/인프라, 최적화, 머신러닝/AI, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | 빅데이터, 인공지능, 블록체인 | 무료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
+| 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
