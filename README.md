@@ -63,12 +63,14 @@
 | 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기정자            | 보안, 취약성분석           | 유료 |
 | 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울서초 | 범농협, AWS | 무료 |
 | 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산서면 | 게임개발, 블록체인 | 유료 |
+| 2019.9.6 | [IBM Developer Day 2019](https://developer.ibm.com/kr/devday2019/) | 서울강남 | 딥러닝, OpenGL, 쿠버네티스, AI, Data science, 코딩테스트, Blockchain, CI/CD pipeline, Python, 카프카, 안드로이드, iOS, Flutter, 오픈소스 | 무료 |
 | 2019.9.6~7 | [2019 Django Girls Seoul Workshop](https://djangogirls.org/seoul/) | 서울강남 | 여성을 위한 무료 프로그래밍 워크샵 | 무료 |
 | 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울강남 | 블록체인, 암호화폐, 비트코인 | 유료 |
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울강남 | 협업, IDE, git | 유료 |
 | 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울강남 | 프론트엔드 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울강남 | 블록체인, Webank | 무료 |
+| 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울용산 | 파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울강남 | Bitcoin, BSV, crypto mining | 무료 |
