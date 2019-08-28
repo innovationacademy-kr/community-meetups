@@ -26,14 +26,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
-| 2019.8.27 | [[TOAST FORWARD]GAME TALK](https://www.onoffmix.com/event/189333) | 경기성남            | 글로벌서비스, 게임보안, Toast Gamebase | 무료 |
-| 2019.8.27 | [2019 호남정보보호 컨퍼런스 및 정보보호 역량강화 워크숍 개최](https://www.onoffmix.com/event/186695) | 전남나주 | 정보보호, AI, 인공지능 | 무료 |
-| 2019.8.27 | [Klaytn Developer Meetup](https://festa.io/events/418) | 서울강남 | Klaytn, BApp, 블록체인 | 무료 |
-| 2019.8.27 | [CircleCI Korea User Group 두번째 모임!](https://festa.io/events/417) | 서울강남 | CircleCI, DevOps, ArgoCD | 유료 |
-| 2019.8.27 | [AWSKRUG 보안 #security 소모임 - 2회차 (8월 27일)](https://www.meetup.com/ko-KR/awskrug/events/263766353/) | 서울강남 | AWS Cloud, Security, AWSKRUG | 유료 |
-| 2019.8.27 | [AI i-CON meet up](https://event-us.kr/aiiconmeetup/event/9921) | 서울강남 | 빅데이터, AI | 무료 |
-| 2019.8.27 | [스벤져스 에이블 - 커리어 전환편](https://event-us.kr/svengers/event/9616) | 서울강남 | 커리어, 전공, 네트워킹 | 유료 |
 | 2019.8.28 | [오송 바이오 인공지능 빅데이터 컨퍼런스](https://event-us.kr/acryl/event/9680) | 충북청주 | 인공지능, 의료기긱 | 무료 |
 | 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울송파            | 핀테크                                 | 무료 |
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
