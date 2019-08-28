@@ -46,6 +46,7 @@
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | 머신러닝, AI, Speech | 무료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
+| 2019.9.5 | [AWSKRUG 부산 지역 모임](https://www.meetup.com/ko-KR/awskrug/events/264334501/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0QkZaHk8EokEmYk3T8R08rxlVGemxlWe70428ZQjfojZSJtfvBhywuzAM) | 부산해운대 | AWS, AWS Cloud, Amplify | 무료 |
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
 | 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울송파 | kafka, elk, Apache, 네트워킹 | 유료 |
 | 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
@@ -60,13 +61,16 @@
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울강남 | 협업, IDE, git | 유료 |
 | 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울강남 | 프론트엔드 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산금정 | iOS, Android, MVP, 해커톤 | 유료 |
+| 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울강남 | AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울강남 | 블록체인, Webank | 무료 |
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울용산 | 파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울홍대 | 오픈소스, 블록체인, 프로젝트, 기타등등 | 무료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울강남 | Bitcoin, BSV, crypto mining | 무료 |
+| 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울강남 | GitHub, DevOps, 오픈소스 | 무료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울강남 | 머신러닝, 데이터사이언스, 대학생 | 무료 |
+| 2019.10.11-12 | [2019 마이데이터 액팅 해커톤](https://www.onoffmix.com/event/190397) | 서울강남 | 해커톤, 마이데이터 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  무료 |
 | 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울강남 | 메디컬, 해커톤 | 무료 |
 | 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울강남 | Agile | 유료 |
