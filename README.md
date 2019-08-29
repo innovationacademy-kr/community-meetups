@@ -64,7 +64,7 @@
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울강남 | 블록체인, Webank | 무료 |
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울용산 | 파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울홍대 | 오픈소스, 블록체인, 프로젝트, 기타등등 | 무료 |
-| 2019.9.21 | [제<br/>3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울송파 | 이력서, 이직 | 유료 |
+| 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울송파 | 이력서, 이직 | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기성남 | 해커톤, 블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울강남 | Blockchain | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울강남 | Bitcoin, BSV, crypto mining | 무료 |
