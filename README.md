@@ -30,7 +30,7 @@
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
 | 2019.8.29 | [AWSKRUG #architecture 소모임 - 25번째 모임 (8월 29일)](https://www.meetup.com/ko-KR/awskrug/events/263449640/) | 서울강남 | AWS, architecture | 유료 |
 | 2019.8.29 | [제93회 SW공학 Technical 세미나](https://www.onoffmix.com/event/190812) | 경기성남 | SW안전, IoT, AI테스트, 품질관리 | 무료 |
-| 2019.8.29 | [블록체인서밋 마블스 부산 2019](https://www.onoffmix.com/event/191135) | 부산해운대 | 핀테크, 블록체인 | 무료 |
+| 2019.8.29 | [블록체인서밋 마블스 부산 2019](https://www.onoffmix.com/event/191135) | 부산</br>해운대 | 핀테크, 블록체인 | 무료 |
 | 2019.8.29-30 | [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/?fbclid=IwAR1FooxVIQlhnORQCZHxMmf4aJRQ5gXVuZZvlZifdrQAW51JXyXmagUIyy4) | 서울강남 | https://if.kakao.com/program | 무료 |
 | 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울서초            | 인공지능, 감성지능                     | 무료 |
 | 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울강남 | IoT, TechMeetup | 무료 |
@@ -41,11 +41,11 @@
 | 2019.9.1 | [[COCKTAIL-PROJECT] 사이드프로젝트 밋업 이벤트](https://event-us.kr/culturelaboratory/event/9773) | 서울강남 | 사이드프로젝트, 개발자, 디자이너, 네트워킹 | 유료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
-| 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
+| 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울</br>영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | 머신러닝, AI, Speech | 무료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천중구 | Blockchain | 유료 |
-| 2019.9.5 | [AWSKRUG 부산 지역 모임](https://www.meetup.com/ko-KR/awskrug/events/264334501/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0QkZaHk8EokEmYk3T8R08rxlVGemxlWe70428ZQjfojZSJtfvBhywuzAM) | 부산해운대 | AWS, AWS Cloud, Amplify | 무료 |
+| 2019.9.5 | [AWSKRUG 부산 지역 모임](https://www.meetup.com/ko-KR/awskrug/events/264334501/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0QkZaHk8EokEmYk3T8R08rxlVGemxlWe70428ZQjfojZSJtfvBhywuzAM) | 부산</br>해운대 | AWS, AWS Cloud, Amplify | 무료 |
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
 | 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울송파 | kafka, elk, Apache, 네트워킹 | 유료 |
 | 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
