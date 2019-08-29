@@ -26,7 +26,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.8.28 | [오송 바이오 인공지능 빅데이터 컨퍼런스](https://event-us.kr/acryl/event/9680) | 충북청주 | 인공지능, 의료기긱 | 무료 |
 | 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울송파            | 핀테크                                 | 무료 |
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울서초            | 인공지능, 법률                         | 무료 |
 | 2019.8.29 | [AWSKRUG #architecture 소모임 - 25번째 모임 (8월 29일)](https://www.meetup.com/ko-KR/awskrug/events/263449640/) | 서울강남 | AWS, architecture | 유료 |
