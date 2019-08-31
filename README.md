@@ -38,6 +38,7 @@
 | 2019.8.30 | [제6회 대한민국 SW융합 해커톤 대회](https://www.onoffmix.com/event/190570) | 경북</br>안동 | Data, Network, AI SW, 스마트시티, 교통시스템 | 무료 |
 | 2019.8.30-31 | [[AWSKRUG, AUSG 주관 해커톤] 2019 제 2회 Amathon :: 대학생 및 주니어 개발자, 디자이너 대상](https://amathon.ga) | 서울</br>역삼 | AWS, 대학생, 해커톤 | 유료 |
 | 2019.8.31 | [GDG Korea Android 안드로이드 탐구영역](https://festa.io/events/441) | 서울</br>송파 | 안드로이드 테스트 | 무료 |
+| 2019.8.31 | [2019 Developer Circles Community Challenge](https://fb2019buildday.splashthat.com/) | 서울</br>중구 | React360, Spark AR, HTML5 Games, Facebook, 팀빌딩            | 무료 |
 | 2019.9.1 | [[COCKTAIL-PROJECT] 사이드프로젝트 밋업 이벤트](https://event-us.kr/culturelaboratory/event/9773) | 서울</br>강남 | 사이드프로젝트, 개발자, 디자이너, 네트워킹 | 유료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울</br>강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울</br>강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
@@ -62,6 +63,7 @@
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | iOS, Android, MVP, 해커톤 | 유료 |
 | 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울</br>강남 | AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울</br>강남 | 블록체인, Webank | 무료 |
+| 2019.9.20~21 | [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) | 서울</br>종로 | 해커톤, 의료데이터, 의사, Data Scientist, SQL, 임상시험 | 무료 |
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | 파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울</br>홍대 | 오픈소스, 블록체인, 프로젝트, 기타등등 | 무료 |
 | 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울</br>송파 | 이력서, 이직 | 유료 |
@@ -93,6 +95,7 @@
 
 ### 이 문서의 공헌자 (가나다순)
 
+* [송 치오](mailto:ghsehr1@gmail.com)
 * [윤 재석](mailto:yjaeseok@gmail.com)
 * [이 민석](mailto:ykhl1itj@gmail.com)
 * [이 하늘](mailto:lee.haneul@gmail.com)
