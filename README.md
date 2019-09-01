@@ -26,19 +26,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.8.29 | [[KISA 핀테크 기술지원센터] 8월 오픈네트워킹 :: 핀테크 산업 글로벌 동향...](https://www.onoffmix.com/event/189792) | 서울</br>송파      | 핀테크                                 | 무료 |
-| 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울</br>서초       | 인공지능, 법률                         | 무료 |
-| 2019.8.29 | [AWSKRUG #architecture 소모임 - 25번째 모임 (8월 29일)](https://www.meetup.com/ko-KR/awskrug/events/263449640/) | 서울</br>강남 | AWS, architecture | 유료 |
-| 2019.8.29 | [제93회 SW공학 Technical 세미나](https://www.onoffmix.com/event/190812) | 경기</br>성남 | SW안전, IoT, AI테스트, 품질관리 | 무료 |
-| 2019.8.29 | [블록체인서밋 마블스 부산 2019](https://www.onoffmix.com/event/191135) | 부산</br>해운대 | 핀테크, 블록체인 | 무료 |
-| 2019.8.29-30 | [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/?fbclid=IwAR1FooxVIQlhnORQCZHxMmf4aJRQ5gXVuZZvlZifdrQAW51JXyXmagUIyy4) | 서울</br>강남 | https://if.kakao.com/program | 무료 |
-| 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울</br>서초       | 인공지능, 감성지능                     | 무료 |
-| 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울</br>강남 | IoT, TechMeetup | 무료 |
-| 2019.8.30 | [ICT콕 해커톤 "CoC-Hackathon"](https://www.onoffmix.com/event/190305) | 서울</br>마포 | ICT, 기계학습, 공공데이터 | 무료 |
-| 2019.8.30 | [제6회 대한민국 SW융합 해커톤 대회](https://www.onoffmix.com/event/190570) | 경북</br>안동 | Data, Network, AI SW, 스마트시티, 교통시스템 | 무료 |
-| 2019.8.30-31 | [[AWSKRUG, AUSG 주관 해커톤] 2019 제 2회 Amathon :: 대학생 및 주니어 개발자, 디자이너 대상](https://amathon.ga) | 서울</br>역삼 | AWS, 대학생, 해커톤 | 유료 |
-| 2019.8.31 | [GDG Korea Android 안드로이드 탐구영역](https://festa.io/events/441) | 서울</br>송파 | 안드로이드 테스트 | 무료 |
-| 2019.8.31 | [2019 Developer Circles Community Challenge](https://fb2019buildday.splashthat.com/) | 서울</br>중구 | React360, Spark AR, HTML5 Games, Facebook, 팀빌딩            | 무료 |
 | 2019.9.1 | [[COCKTAIL-PROJECT] 사이드프로젝트 밋업 이벤트](https://event-us.kr/culturelaboratory/event/9773) | 서울</br>강남 | 사이드프로젝트, 개발자, 디자이너, 네트워킹 | 유료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울</br>강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울</br>강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
