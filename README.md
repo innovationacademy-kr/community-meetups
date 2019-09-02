@@ -58,6 +58,7 @@
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | Blockchain | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | Bitcoin, BSV, crypto mining | 무료 |
 | 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | GitHub, DevOps, 오픈소스 | 무료 |
+| 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울</br>강남 | 머신러닝, 데이터사이언스, 대학생 | 무료 |
 | 2019.10.11-12 | [2019 마이데이터 액팅 해커톤](https://www.onoffmix.com/event/190397) | 서울</br>강남 | 해커톤, 마이데이터 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울</br>서초 | 오픈소스, 5G, Robot, AI, Platform, Security |  무료 |
