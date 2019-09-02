@@ -30,6 +30,7 @@
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울</br>강남 | 네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울</br>강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
 | 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울</br>영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
+| 2019.9.3 | [JSConf Korea 2019](https://2019.jsconfkorea.com/) | 서울</br>강남 | 자바스크립트, GDG Korea WebTech |  |
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | 머신러닝, AI, Speech | 무료 |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울</br>강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천</br>중구 | Blockchain | 유료 |
