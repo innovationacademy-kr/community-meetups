@@ -34,6 +34,13 @@
 | 2019.8.30-31 | [[AWSKRUG, AUSG 주관 해커톤] 2019 제 2회 Amathon :: 대학생 및 주니어 개발자, 디자이너 대상](https://amathon.ga) | 서울</br>역삼 | AWS, 대학생, 해커톤 | 유료 |
 | 2019.8.31 | [GDG Korea Android 안드로이드 탐구영역](https://festa.io/events/441) | 서울</br>송파 | 안드로이드 테스트 | 무료 |
 | 2019.8.31 | [2019 Developer Circles Community Challenge](https://fb2019buildday.splashthat.com/) | 서울</br>중구 | React360, Spark AR, HTML5 Games, Facebook, 팀빌딩            | 무료 |
+| 2019.9.1 | [[COCKTAIL-PROJECT] 사이드프로젝트 밋업 이벤트](https://event-us.kr/culturelaboratory/event/9773) | 서울</br>강남 | 사이드프로젝트, 개발자, 디자이너, 네트워킹 | 유료 |
+| 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울</br>강남 | 네트워킹 | 유료 |
+| 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울</br>강남 | AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
+| 2019.9.3 | [카페24 개발자 세미나](https://echosting.cafe24.com/Event/?url=DeveloperEvent&fbclid=IwAR0cqDeS7g9MlI0H8fQwlYVIKxFb7IJzauDOA_bIZxumbLHfqW7O518I0Lg) | 서울</br>영등포 | 전자상거래, 플랫폼 피즈니스, 데이터마이닝 | 무료 |
+| 2019.9.3 | [JSConf Korea 2019](https://2019.jsconfkorea.com/) | 서울</br>강남 | 자바스크립트, GDG Korea WebTech |  |
+| 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울</br>강남 | Flutter, Google Flutter team | 유료 |
+| 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천</br>중구 | Blockchain | 유료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
