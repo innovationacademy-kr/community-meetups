@@ -43,6 +43,7 @@
 | 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |
 | 2019.9.17 | [AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/264512802/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0o4wSNP9QLqrXCBL-fqr-JNpG0vcFBr9y5zzCVclbyKs-4BqW3eRKWSAQ) | 서울</br>구로 | #AWS, AWS EKS | 유료 |
+| 2019.9.17 | [AWSKRUG 스타트업 소모임 (9월17일)](https://www.meetup.com/ko-KR/awskrug/events/264610181/?fbclid=IwAR0gFTGBBsGvId4VJqj13pGJtpoPNOhp8BRHYXFXvAdph0NIk740H4lkDEI) | 서울</br>강남 | #AWS, #네트워킹 | 유료 |
 | 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울</br>강남 | #AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
 | 2019.9.18 | [하시코프 사용자 모임 서울 밋업](https://festa.io/events/473) | 서울</br>강남 | 하시코프, Terraform | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울</br>강남 | #블록체인, Webank | 무료 |
