@@ -38,6 +38,7 @@
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울</br>강남 | #git, 협업, IDE | 유료 |
 | 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울</br>강남 | 프론트엔드 | 무료 |
 | 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
+| 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |
 | 2019.9.17 | [AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/264512802/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0o4wSNP9QLqrXCBL-fqr-JNpG0vcFBr9y5zzCVclbyKs-4BqW3eRKWSAQ) | 서울</br>구로 | #AWS, AWS EKS | 유료 |
 | 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울</br>강남 | #AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
