@@ -27,10 +27,6 @@
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, 머신러닝, AI, Speech | 무료 |
-| 2019.9.5 | [AWSKRUG 부산 지역 모임](https://www.meetup.com/ko-KR/awskrug/events/264334501/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0QkZaHk8EokEmYk3T8R08rxlVGemxlWe70428ZQjfojZSJtfvBhywuzAM) | 부산</br>해운대 | AWS, AWS Cloud, Amplify | 무료 |
-| 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울</br>강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
-| 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울</br>송파 | kafka, elk, Apache, 네트워킹 | 유료 |
-| 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울</br>강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
 | 2019.9.6 | [쇼룸: 쇼핑 개발자를 부탁해](https://festa.io/events/440) | 서울</br>강남 | Node.js/React, IaC, Ansible, k82 | 무료 |
 | 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울</br>서초       | 인공지능, 딥러닝, 스마트시티           | 무료 |
 | 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기</br>정자       | 보안, 취약성분석           | 유료 |

@@ -41,6 +41,10 @@
 | 2019.9.3 | [JSConf Korea 2019](https://2019.jsconfkorea.com/) | 서울</br>강남 | 자바스크립트, GDG Korea WebTech |  |
 | 2019.9.4 | [Flutter meetup #1](https://festa.io/events/436) | 서울</br>강남 | Flutter, Google Flutter team | 유료 |
 | 2019.9.4 | [Upbit Developer Conference](https://udc.upbit.com) | 인천</br>중구 | Blockchain | 유료 |
+| 2019.9.5 | [AWSKRUG 부산 지역 모임](https://www.meetup.com/ko-KR/awskrug/events/264334501/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0QkZaHk8EokEmYk3T8R08rxlVGemxlWe70428ZQjfojZSJtfvBhywuzAM) | 부산</br>해운대 | AWS, AWS Cloud, Amplify | 무료 |
+| 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울</br>강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
+| 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울</br>송파 | kafka, elk, Apache, 네트워킹 | 유료 |
+| 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울</br>강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
