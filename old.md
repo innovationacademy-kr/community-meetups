@@ -45,6 +45,12 @@
 | 2019.9.5 | [LG CNS AI Tech Talk for NLU Day (feat. KorQuAD)](https://event-us.kr/lgcns/event/9666) | 서울</br>강서 | 한국어 NLP/NLU, KorQUAD | 무료 |
 | 2019.9.5 | [KafkaKRU(Kafka 한국사용자 모임) 제3회 미니밋업](https://www.onoffmix.com/event/191410) | 서울</br>송파 | kafka, elk, Apache, 네트워킹 | 유료 |
 | 2019.9.5 | [WebRTC meetup Seoul 2019 summer](https://event-us.kr/webrtc/event/9787) | 서울</br>강남 | WebRTC, WebOS, OBS, Janus, Docker | 무료 |
+| 2019.9.6 | [쇼룸: 쇼핑 개발자를 부탁해](https://festa.io/events/440) | 서울</br>강남 | Node.js/React, IaC, Ansible, k82 | 무료 |
+| 2019.9.6  | [제18회 양재R&D혁신허브 AI신기술뎐](https://www.onoffmix.com/event/189320) | 서울</br>서초       | #AI, 딥러닝, 스마트시티        | 무료 |
+| 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기</br>정자       | #보안, 취약성분석          | 유료 |
+| 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울</br>서초 | #해커톤, #AWS, 범농협 | 무료 |
+| 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산</br>서면 | #블록체인, 게임개발 | 유료 |
+| 2019.9.6 | [IBM Developer Day 2019](https://developer.ibm.com/kr/devday2019/) | 서울</br>강남 | #AI, #오픈소스, #블록체인, #파이썬, 안드로이드, iOS, 딥러닝, OpenGL, 쿠버네티스, Data science, 코딩테스트, CI/CD pipeline, 카프카, Flutter | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
