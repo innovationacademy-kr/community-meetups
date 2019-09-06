@@ -23,6 +23,8 @@
 
 아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다.
 
+태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI
+
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
@@ -32,7 +34,7 @@
 | 2019.9.6  | [김치콘 2019](https://ohjeongwook.com/2019/08/21/kimchicon2019sessions/) | 경기</br>정자       | #보안, 취약성분석          | 유료 |
 | 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울</br>서초 | #해커톤, #AWS, 범농협 | 무료 |
 | 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산</br>서면 | #블록체인, 게임개발 | 유료 |
-| 2019.9.6 | [IBM Developer Day 2019](https://developer.ibm.com/kr/devday2019/) | 서울</br>강남 | #AI, 딥러닝, OpenGL, 쿠버네티스, Data science, 코딩테스트, Blockchain, CI/CD pipeline, Python, 카프카, 안드로이드, iOS, Flutter, 오픈소스 | 무료 |
+| 2019.9.6 | [IBM Developer Day 2019](https://developer.ibm.com/kr/devday2019/) | 서울</br>강남 | #AI, #오픈소스, 안드로이드, iOS, 딥러닝, OpenGL, 쿠버네티스, Data science, 코딩테스트, Blockchain, CI/CD pipeline, Python, 카프카, Flutter | 무료 |
 | 2019.9.6~7 | [2019 Django Girls Seoul Workshop](https://djangogirls.org/seoul/) | 서울</br>강남 | 여성을 위한 무료 프로그래밍 워크샵 | 무료 |
 | 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울</br>강남 | #블록체인, 암호화폐, 비트코인 | 유료 |
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울</br>강남 | #git, 협업, IDE | 유료 |
@@ -48,7 +50,7 @@
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | #파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울</br>홍대 | #블록체인, #오픈소스, 프로젝트, 기타등등 | 무료 |
 | 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울</br>송파 | #경력관리, 이력서, 이직 | 유료 |
-| 2019.9.22 | [Android Studio Build Talk](https://festa.io/events/448?fbclid=IwAR1Jqg4vatdZUU93kRVuOaJGg1r2tIW4OMZv6H_ciMw_7ewof5w72pHhOvI) | 서울</br>송파 | #안드로이드, R8 | 유료 |
+| 2019.9.22 | [Android Studio Build Talk](https://festa.io/events/448?fbclid=IwAR1Jqg4vatdZUU93kRVuOaJGg1r2tIW4OMZv6H_ciMw_7ewof5w72pHhOvI) | 서울</br>송파 | 안드로이드, R8 | 유료 |
 | 2019.9.25 | [[제 2회] 공감세미나 미니 토크 - 시니어](https://m.onoffmix.com/event/192644?fbclid=IwAR0lFPFuv2pz0V3XhugdQbvOZ_cnFFTO6cCRwigHeraM1Yr5fgxO1mV4_Mc) | 서울</br>강남 | #네트워킹, #SI | 무료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기</br>성남 | #해커톤, #블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
