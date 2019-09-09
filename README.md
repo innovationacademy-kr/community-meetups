@@ -23,7 +23,7 @@
 
 아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다.
 
-태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #파이썬, #의료, #핀테크, #DevOps, #IoT, #ICT
+태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -38,7 +38,7 @@
 | 2019.9.18 | [하시코프 사용자 모임 서울 밋업](https://festa.io/events/473) | 서울</br>강남 | 하시코프, Terraform | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울</br>강남 | #블록체인, Webank | 무료 |
 | 2019.9.20~21 | [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) | 서울</br>종로 | #해커톤, #의료, 의료데이터, 의사, Data Scientist, SQL, 임상시험 | 무료 |
-| 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | #파이썬, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
+| 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | #Python, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울</br>홍대 | #블록체인, #오픈소스, 프로젝트, 기타등등 | 무료 |
 | 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울</br>송파 | #경력관리, 이력서, 이직 | 유료 |
 | 2019.9.22 | [Android Studio Build Talk](https://festa.io/events/448?fbclid=IwAR1Jqg4vatdZUU93kRVuOaJGg1r2tIW4OMZv6H_ciMw_7ewof5w72pHhOvI) | 서울</br>송파 | 안드로이드, R8 | 유료 |
