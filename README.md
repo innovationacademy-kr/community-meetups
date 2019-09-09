@@ -30,6 +30,7 @@
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, #AI, 머신러닝, Speech | 무료 |
 | 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
+| 2019.0.9 | [제주 블록체인/빅데이터 입주 기업 모집 및 블록체인 해커톤 홍보 밋업](https://event-us.kr/jccei/event/10191) | 서울</br>강남 | #해커톤, #블록체인 | 무료 |
 | 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |
 | 2019.9.17 | [AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/264512802/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0o4wSNP9QLqrXCBL-fqr-JNpG0vcFBr9y5zzCVclbyKs-4BqW3eRKWSAQ) | 서울</br>구로 | #AWS, AWS EKS | 유료 |
