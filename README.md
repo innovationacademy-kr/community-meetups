@@ -29,10 +29,6 @@
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, #AI, 머신러닝, Speech | 무료 |
-| 2019.9.6~7 | [2019 Django Girls Seoul Workshop](https://djangogirls.org/seoul/) | 서울</br>강남 | 여성을 위한 무료 프로그래밍 워크샵 | 무료 |
-| 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울</br>강남 | #블록체인, 암호화폐, 비트코인 | 유료 |
-| 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울</br>강남 | #git, 협업, IDE | 유료 |
-| 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울</br>강남 | 프론트엔드 | 무료 |
 | 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
 | 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |

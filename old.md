@@ -53,6 +53,10 @@
 | 2019.9.6 | [[NH농협은행] NH디지털혁신캠퍼스 챌린지 해커톤](https://event-us.kr/nhhackathon/event/9423) | 서울</br>서초 | #해커톤, #AWS, 범농협 | 무료 |
 | 2019.9.6 | [GDG Cloud Busan * Enjin Coin](https://festa.io/events/434) | 부산</br>서면 | #블록체인, 게임개발 | 유료 |
 | 2019.9.6 | [IBM Developer Day 2019](https://developer.ibm.com/kr/devday2019/) | 서울</br>강남 | #AI, #오픈소스, #블록체인, #파이썬, 안드로이드, iOS, 딥러닝, OpenGL, 쿠버네티스, Data science, 코딩테스트, CI/CD pipeline, 카프카, Flutter | 무료 |
+| 2019.9.6~7 | [2019 Django Girls Seoul Workshop](https://djangogirls.org/seoul/) | 서울</br>강남 | 여성을 위한 무료 프로그래밍 워크샵 | 무료 |
+| 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울</br>강남 | #블록체인, 암호화폐, 비트코인 | 유료 |
+| 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울</br>강남 | #git, 협업, IDE | 유료 |
+| 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울</br>강남 | 프론트엔드 | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
