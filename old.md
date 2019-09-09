@@ -27,7 +27,7 @@
 | 2019.8.29 | [제1회 법률 인공지능 컨퍼런스](https://www.onoffmix.com/event/189823) | 서울</br>서초       | #AI, 법률                    | 무료 |
 | 2019.8.29 | [AWSKRUG #architecture 소모임 - 25번째 모임 (8월 29일)](https://www.meetup.com/ko-KR/awskrug/events/263449640/) | 서울</br>강남 | #AWS, architecture | 유료 |
 | 2019.8.29 | [제93회 SW공학 Technical 세미나](https://www.onoffmix.com/event/190812) | 경기</br>성남 | #AI, #IoT, SW안전, AI테스트, 품질관리 | 무료 |
-| 2019.8.29 | [블록체인서밋 마블스 부산 2019](https://www.onoffmix.com/event/191135) | 부산</br>해운대 | #블록체인, 핀테크                                            | 무료 |
+| 2019.8.29 | [블록체인서밋 마블스 부산 2019](https://www.onoffmix.com/event/191135) | 부산</br>해운대 | #블록체인, #핀테크                                           | 무료 |
 | 2019.8.29-30 | [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/?fbclid=IwAR1FooxVIQlhnORQCZHxMmf4aJRQ5gXVuZZvlZifdrQAW51JXyXmagUIyy4) | 서울</br>강남 | https://if.kakao.com/program | 무료 |
 | 2019.8.30 | [양재R&D혁신허브 제6회 AI혁신포럼](https://www.onoffmix.com/event/189322) | 서울</br>서초       | #AI, 감성지능                   | 무료 |
 | 2019.8.30 | [2019 K-Global 스타트업 공모전 1차 Tech Meet-up(IoT분야)](https://www.onoffmix.com/event/189014) | 서울</br>강남 | #IoT, TechMeetup | 무료 |
