@@ -54,6 +54,7 @@
 | 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
 | 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울</br>강남 | #AI, 머신러닝, 데이터사이언스, 대학생 | 무료 |
+| 2019.10.10 | [스타트업 테크-챌린지 4th](https://peoplefund-tech.github.io/startup-tech-challenge/?fbclid=IwAR3BBrFdaWNWWF_BcQvlB7sglljY1X9Xa8yemSqW-kzIa4mC6fC0iX94BBA) | 서울</br>강남 | #AWS, EC2, ECS, DB, DevOps | 무료 |
 | 2019.10.11-12 | [2019 마이데이터 액팅 해커톤](https://www.onoffmix.com/event/190397) | 서울</br>강남 | #해커톤, 마이데이터 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울</br>서초 | #오픈소스, #AI, 5G, Robot, Platform, Security |  무료 |
 | 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울</br>강남 | #해커톤, #의료, 메디컬 | 무료 |
