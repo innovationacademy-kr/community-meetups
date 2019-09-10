@@ -57,6 +57,8 @@
 | 2019.9.7 | [GBA Korea 2nd Block-Talk](https://www.onoffmix.com/event/190169) | 서울</br>강남 | #블록체인, 암호화폐, 비트코인 | 유료 |
 | 2019.9.7 | [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635) | 서울</br>강남 | #git, 협업, IDE | 유료 |
 | 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울</br>강남 | 프론트엔드 | 무료 |
+| 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
+| 2019.9.9 | [제주 블록체인/빅데이터 입주 기업 모집 및 블록체인 해커톤 홍보 밋업](https://event-us.kr/jccei/event/10191) | 서울</br>강남 | #해커톤, #블록체인 | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
