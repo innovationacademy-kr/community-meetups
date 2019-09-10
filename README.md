@@ -44,6 +44,7 @@
 | 2019.9.25 | [[제 2회] 공감세미나 미니 토크 - 시니어](https://m.onoffmix.com/event/192644?fbclid=IwAR0lFPFuv2pz0V3XhugdQbvOZ_cnFFTO6cCRwigHeraM1Yr5fgxO1mV4_Mc) | 서울</br>강남 | #네트워킹, #SI | 무료 |
 | 2019.9.25 | [GitLab Korea Meetup#5 - 본사 엔지니어와 함께하는 튜닝 사례](https://festa.io/events/520?fbclid=IwAR2XRXXFKMp8h6i2GSd-sgHFH94Bsa1pUc_XO0-Ou8-S_17cHqSpHEcjyug) | 서울</br>강남 | #git | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기</br>성남 | #해커톤, #블록체인, 공공서비스, 창업모델 | 무료 |
+| 2019.9.26 | [AWSKRUG #architecture 소모임-26번째모임](https://www.meetup.com/ko-KR/awskrug/events/264397778/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR3WBMZIoe8iVkXiGTQymQEWNqOd6dtJtkKXuKO7S0jpxaCC4A3sSfwc56E) | 서울</br>강남 | #AWS | 유료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
 | 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | #블록체인, Bitcoin, BSV, crypto mining | 무료 |
@@ -51,9 +52,11 @@
 | 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울</br>강남 | #AI, 머신러닝, 데이터사이언스, 대학생 | 무료 |
 | 2019.10.10 | [스타트업 테크-챌린지 4th](https://peoplefund-tech.github.io/startup-tech-challenge/?fbclid=IwAR3BBrFdaWNWWF_BcQvlB7sglljY1X9Xa8yemSqW-kzIa4mC6fC0iX94BBA) | 서울</br>강남 | #AWS, EC2, ECS, DB, DevOps | 무료 |
+| 2019.10.10 | [AWSKRUG 데이터사이언스모임](https://www.meetup.com/ko-KR/awskrug/events/264710367/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0LoOarPNuhYTPy6k0qhd--WTZaPCKgJgTV1rvFLHQOMiU5e1cspDBq-Hw) | 서울</br>강남 | #AWS, #네트워킹 | 유료 |
 | 2019.10.11-12 | [2019 마이데이터 액팅 해커톤](https://www.onoffmix.com/event/190397) | 서울</br>강남 | #해커톤, 마이데이터 | 무료 |
 | 2019.10.16 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울</br>서초 | #오픈소스, #AI, 5G, Robot, Platform, Security |  무료 |
 | 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울</br>강남 | #해커톤, #의료, 메디컬 | 무료 |
+| 2019.10.15 | [AWSKRUG DevOps 모임](https://www.meetup.com/ko-KR/awskrug/events/264611630/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0qJVLHSDWvgJwgBw32HtUJahPbmRAXxzlmL3Hhb5fhxw6QndsNduoJO7Q) | 서울</br> 강남 | #AWS, #DevOps | 유료 |
 | 2019.10.16 | [Red Hat Forum Seoul Korea Micro](https://events.redhat.com/profile/web/index.cfm?PKwebID=0x19020abcd&sc_cid=7013a000002CsQ6AAK&fbclid=IwAR1dY5kIgMz3oavd-jJ60sSP2dCUj_7QOPrREOGq6_yC87dqtXrdFDXHCVs) | 서울</br>강남 | 다양 | 유료 |
 | 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울</br>강남 | Agile | 유료 |
 | 2019.10.19 | [데이터야놀자 2019](https://datayanolja.github.io/) | 서울</br>종로 | Data | 유료 |
