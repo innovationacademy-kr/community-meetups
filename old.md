@@ -1,6 +1,6 @@
 # 지난 community-meetups
 
-태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT
+태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
