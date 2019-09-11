@@ -58,7 +58,6 @@
 | 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울</br>강남 | #해커톤, #의료, 메디컬 | 무료 |
 | 2019.10.15 | [AWSKRUG DevOps 모임](https://www.meetup.com/ko-KR/awskrug/events/264611630/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0qJVLHSDWvgJwgBw32HtUJahPbmRAXxzlmL3Hhb5fhxw6QndsNduoJO7Q) | 서울</br> 강남 | #AWS, #DevOps | 유료 |
 | 2019.10.16 | [Red Hat Forum Seoul Korea Micro](https://events.redhat.com/profile/web/index.cfm?PKwebID=0x19020abcd&sc_cid=7013a000002CsQ6AAK&fbclid=IwAR1dY5kIgMz3oavd-jJ60sSP2dCUj_7QOPrREOGq6_yC87dqtXrdFDXHCVs) | 서울</br>강남 | 다양 | 유료 |
-| 2019.10.16 | [Leading SAFe](https://festa.io/events/506) | 서울</br>강남 | #애자일 | 유료 |
 | 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울</br>강남 | #애자일 | 유료 |
 | 2019.10.19 | [데이터야놀자 2019](https://datayanolja.github.io/) | 서울</br>종로 | Data | 유료 |
 | 2019.10.19-20 | [게기스 3회 게임잼](https://www.onoffmix.com/event/192589) | 서울</br>강남 | #해커톤 | 유료 |
