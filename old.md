@@ -59,6 +59,7 @@
 | 2019.9.8 | [Front End  meetup #1](https://festa.io/events/449) | 서울</br>강남 | 프론트엔드 | 무료 |
 | 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
 | 2019.9.9 | [제주 블록체인/빅데이터 입주 기업 모집 및 블록체인 해커톤 홍보 밋업](https://event-us.kr/jccei/event/10191) | 서울</br>강남 | #해커톤, #블록체인 | 무료 |
+| 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
