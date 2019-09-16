@@ -28,6 +28,7 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
+| 2019.9.5-9.29 | [SOSCON 2019 오픈소스 Robot Competition](https://onoffmix.com/event/193008) | 서울서초 | #해커톤,#경진대회, #로봇, #공모전, Robot, AI | 무료 |
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, #AI, 머신러닝, Speech | 무료 |
 | 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
 | 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |
