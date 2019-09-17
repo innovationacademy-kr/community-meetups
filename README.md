@@ -64,6 +64,7 @@
 | 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울</br>강남 | #애자일 | 유료 |
 | 2019.10.19 | [데이터야놀자 2019](https://datayanolja.github.io/) | 서울</br>종로 | Data | 유료 |
 | 2019.10.19-20 | [게기스 3회 게임잼](https://www.onoffmix.com/event/192589) | 서울</br>강남 | #해커톤 | 유료 |
+| 2019.10.26 | [FEConf2019](http://2019.feconf.kr/) | 서울</br>잠실 | 프론트엔드 | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
