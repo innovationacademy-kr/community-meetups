@@ -60,6 +60,20 @@
 | 2019.9.9 | [Hyperledger Korea User Group 미니 밋업 #5](https://festa.io/events/462) | 서울</br>강남 | #네트워킹, Publick Key Infrastructure | 무료 |
 | 2019.9.9 | [제주 블록체인/빅데이터 입주 기업 모집 및 블록체인 해커톤 홍보 밋업](https://event-us.kr/jccei/event/10191) | 서울</br>강남 | #해커톤, #블록체인 | 무료 |
 | 2019.9.10 | [2019 공개SW 개발자대회 기술세미나](https://www.onoffmix.com/event/192927?fbclid=IwAR3vNsM9iF4fzX3W8FAat5JMTbluCEolzGfOUAQUE5_qKLtmnkX1EcYFN4E) | 서울</br>중구 | #오픈소스 | 무료 |
+| 2019.9.5-9.29 | [SOSCON 2019 오픈소스 Robot Competition](https://onoffmix.com/event/193008) | 서울</br>서초 | #해커톤, #AI, 경진대회, 로봇, 공모전, Robot| 무료 |
+| 2019.9.16 | [투윅스(Two weeks) - 앱/웹 서비스 출시를 위한 초단기 프로젝트](https://event-us.kr/pathfinder/event/9614) | 부산</br>금정 | #해커톤, iOS, Android, MVP | 유료 |
+| 2019.9.17 | [AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/264512802/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0o4wSNP9QLqrXCBL-fqr-JNpG0vcFBr9y5zzCVclbyKs-4BqW3eRKWSAQ) | 서울</br>구로 | #AWS, AWS EKS | 유료 |
+| 2019.9.17 | [AWSKRUG 스타트업 소모임 (9월17일)](https://www.meetup.com/ko-KR/awskrug/events/264610181/?fbclid=IwAR0gFTGBBsGvId4VJqj13pGJtpoPNOhp8BRHYXFXvAdph0NIk740H4lkDEI) | 서울</br>강남 | #AWS, #네트워킹 | 유료 |
+| 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울</br>강남 | #AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
+| 2019.9.18 | [하시코프 사용자 모임 서울 밋업](https://festa.io/events/473) | 서울</br>강남 | 하시코프, Terraform | 유료 |
+| 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울</br>강남 | #블록체인, Webank | 무료 |
+| 2019.9.19 | [오픈 테크넷 서밋 2019](http://seminar.ddaily.co.kr/seminar42/) | 거울</br>구로 | #클라우드, #오픈소스 | 유료 |
+| 2019.9.20 | [WINNER WINNER CHICKEN DINNER '19'](https://festa.io/events/524) | 경기</br>성남 | #네트워킹 | 유료 |
+| 2019.9.20~21 | [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) | 서울</br>종로 | #해커톤, #의료, 의료데이터, 의사, Data Scientist, SQL, 임상시험 | 무료 |
+| 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | #Python, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
+| 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울</br>홍대 | #블록체인, #오픈소스, 프로젝트, 기타등등 | 무료 |
+| 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울</br>송파 | #경력관리, 이력서, 이직 | 유료 |
+| 2019.9.22 | [Android Studio Build Talk](https://festa.io/events/448?fbclid=IwAR1Jqg4vatdZUU93kRVuOaJGg1r2tIW4OMZv6H_ciMw_7ewof5w72pHhOvI) | 서울</br>송파 | 안드로이드, R8 | 유료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
