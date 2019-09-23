@@ -23,7 +23,7 @@
 
 아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다.
 
-태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics
+태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드 
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -36,6 +36,7 @@
 | 2019.9.18 | [[시즌2 최종] 데이터 사이언스 미트업](https://festa.io/events/474) | 서울</br>강남 | #AI, 케라스, RNN, LSRM, R, RPA, tidytext | 유료 |
 | 2019.9.18 | [하시코프 사용자 모임 서울 밋업](https://festa.io/events/473) | 서울</br>강남 | 하시코프, Terraform | 유료 |
 | 2019.9.19 | [2019 K-Global 스타트업 공모전 2차 Tech Meet-up(블록체인 분야)](https://event-us.kr/sy/event/9851) | 서울</br>강남 | #블록체인, Webank | 무료 |
+| 2019.9.19 | [오픈 테크넷 서밋 2019](http://seminar.ddaily.co.kr/seminar42/) | 거울</br>구로 | #클라우드, #오픈소스 | 유료 |
 | 2019.9.20 | [WINNER WINNER CHICKEN DINNER '19'](https://festa.io/events/524) | 경기</br>성남 | #네트워킹 | 유료 |
 | 2019.9.20~21 | [KOREA CLINICAL DATATHON 2019](http://datathon.konect.or.kr/) | 서울</br>종로 | #해커톤, #의료, 의료데이터, 의사, Data Scientist, SQL, 임상시험 | 무료 |
 | 2019.9.21 | [2019 소프트웨어 나눔축제](https://swfestival.kr/) | 서울</br>용산 | #Python, Android, HTML, CSS, Unity, 아두이노, Adobe X, Illustrator, Adoble AfterEffects | 무료 |
@@ -50,6 +51,7 @@
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
 | 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | #블록체인, Bitcoin, BSV, crypto mining | 무료 |
+| 2019.10.1 | [데브옵스의 날](https://devopsday.devopskorea.org/?fbclid=IwAR1ivbS-VMqTUS1Itu3o2_W9keJUJHlG3w6HmaNSmmPmF8AdsGYqmeLWnzs) | 서울</br>서대문 | #DevOps, #클라우드, #애자일 | 유료 |
 | 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
 | 2019.10.2-3 | [AI x Rovotics : The First](https://festa.io/events/526) | 서울</br>강서 | #AI, #Robotics | 유료 |
 | 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
@@ -64,6 +66,7 @@
 | 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울</br>강남 | #애자일 | 유료 |
 | 2019.10.19 | [데이터야놀자 2019](https://datayanolja.github.io/) | 서울</br>종로 | Data | 유료 |
 | 2019.10.19-20 | [게기스 3회 게임잼](https://www.onoffmix.com/event/192589) | 서울</br>강남 | #해커톤 | 유료 |
+| 2019.10.26 | [FEConf2019](http://2019.feconf.kr/) | 서울</br>잠실 | 프론트엔드 | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
