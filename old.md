@@ -1,6 +1,6 @@
 # 지난 community-meetups
 
-태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드
+태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드, #스타트업
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -74,6 +74,10 @@
 | 2019.9.21 | [주니어개발자가 오픈소스로 토이프로젝트하는 특집](https://festa.io/events/479) | 서울</br>홍대 | #블록체인, #오픈소스, 프로젝트, 기타등등 | 무료 |
 | 2019.9.21 | [제 3회 99콘 <이력서>](https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2) | 서울</br>송파 | #경력관리, 이력서, 이직 | 유료 |
 | 2019.9.22 | [Android Studio Build Talk](https://festa.io/events/448?fbclid=IwAR1Jqg4vatdZUU93kRVuOaJGg1r2tIW4OMZv6H_ciMw_7ewof5w72pHhOvI) | 서울</br>송파 | 안드로이드, R8 | 유료 |
+| 2019.9.25 | [[제 2회] 공감세미나 미니 토크 - 시니어](https://m.onoffmix.com/event/192644?fbclid=IwAR0lFPFuv2pz0V3XhugdQbvOZ_cnFFTO6cCRwigHeraM1Yr5fgxO1mV4_Mc) | 서울</br>강남 | #네트워킹, #SI | 무료 |
+| 2019.9.25 | [GitLab Korea Meetup#5 - 본사 엔지니어와 함께하는 튜닝 사례](https://festa.io/events/520?fbclid=IwAR2XRXXFKMp8h6i2GSd-sgHFH94Bsa1pUc_XO0-Ou8-S_17cHqSpHEcjyug) | 서울</br>강남 | #git | 유료 |
+| 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기</br>성남 | #해커톤, #블록체인, 공공서비스, 창업모델 | 무료 |
+| 2019.9.26 | [AWSKRUG #architecture 소모임-26번째모임](https://www.meetup.com/ko-KR/awskrug/events/264397778/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR3WBMZIoe8iVkXiGTQymQEWNqOd6dtJtkKXuKO7S0jpxaCC4A3sSfwc56E) | 서울</br>강남 | #AWS | 유료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
