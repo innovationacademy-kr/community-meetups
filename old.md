@@ -78,6 +78,15 @@
 | 2019.9.25 | [GitLab Korea Meetup#5 - 본사 엔지니어와 함께하는 튜닝 사례](https://festa.io/events/520?fbclid=IwAR2XRXXFKMp8h6i2GSd-sgHFH94Bsa1pUc_XO0-Ou8-S_17cHqSpHEcjyug) | 서울</br>강남 | #git | 유료 |
 | 2019.9.26 | [2019 경기도 블록체인 해커톤](https://www.onoffmix.com/event/190011) | 경기</br>성남 | #해커톤, #블록체인, 공공서비스, 창업모델 | 무료 |
 | 2019.9.26 | [AWSKRUG #architecture 소모임-26번째모임](https://www.meetup.com/ko-KR/awskrug/events/264397778/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR3WBMZIoe8iVkXiGTQymQEWNqOd6dtJtkKXuKO7S0jpxaCC4A3sSfwc56E) | 서울</br>강남 | #AWS | 유료 |
+| 2019.9.27 | [Data Playground at 7: Healthcare and Surgical Vision](https://festa.io/events/527?fbclid=IwAR2wjx37SLbn9OIoES7UrBYAbwroz9a3npj8S4SazpD2t65munSd1KcJMUk) | 서울</br>강남 | #AI, #의료 | 유료 |
+| 2019.9.28 | [스.뽀.콘 - 스타트업 뽀시래기 콘퍼런스](https://event-us.kr/bbosiraegi/event/10532?fbclid=IwAR0AGZhrKjZ2QiDcrUJhaaaxQiw3TW3yQouxmgicH_gtoiNfC-GI0GsMwJ8) | 서울</br>강남 | #네트워킹 | 유료 |
+| 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
+| 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
+| 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | #블록체인, Bitcoin, BSV, crypto mining | 무료 |
+| 2019.10.1 | [데브옵스의 날](https://devopsday.devopskorea.org/?fbclid=IwAR1ivbS-VMqTUS1Itu3o2_W9keJUJHlG3w6HmaNSmmPmF8AdsGYqmeLWnzs) | 서울</br>서대문 | #DevOps, #클라우드, #애자일 | 유료 |
+| 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
+| 2019.10.2 | [스타일쉐어 컨퍼런스 1회 - Python Backend](https://festa.io/events/556?fbclid=IwAR2iDmLjUHNBcUK6tuktmJxsUGYdshDXWAC_zXWr3NZd7c5RY06ILhaHzbM) | 서울</br>강남 | #스타트업, #네트워킹 | 무료 |
+| 2019.10.2-3 | [AI x Rovotics : The First](https://festa.io/events/526) | 서울</br>강서 | #AI, #Robotics | 유료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,

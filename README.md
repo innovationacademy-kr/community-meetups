@@ -29,15 +29,6 @@
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, #AI, 머신러닝, Speech | 무료 |
-| 2019.9.27 | [Data Playground at 7: Healthcare and Surgical Vision](https://festa.io/events/527?fbclid=IwAR2wjx37SLbn9OIoES7UrBYAbwroz9a3npj8S4SazpD2t65munSd1KcJMUk) | 서울</br>강남 | #AI, #의료 | 유료 |
-| 2019.9.28 | [스.뽀.콘 - 스타트업 뽀시래기 콘퍼런스](https://event-us.kr/bbosiraegi/event/10532?fbclid=IwAR0AGZhrKjZ2QiDcrUJhaaaxQiw3TW3yQouxmgicH_gtoiNfC-GI0GsMwJ8) | 서울</br>강남 | #네트워킹 | 유료 |
-| 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
-| 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
-| 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | #블록체인, Bitcoin, BSV, crypto mining | 무료 |
-| 2019.10.1 | [데브옵스의 날](https://devopsday.devopskorea.org/?fbclid=IwAR1ivbS-VMqTUS1Itu3o2_W9keJUJHlG3w6HmaNSmmPmF8AdsGYqmeLWnzs) | 서울</br>서대문 | #DevOps, #클라우드, #애자일 | 유료 |
-| 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
-| 2019.10.2 | [스타일쉐어 컨퍼런스 1회 - Python Backend](https://festa.io/events/556?fbclid=IwAR2iDmLjUHNBcUK6tuktmJxsUGYdshDXWAC_zXWr3NZd7c5RY06ILhaHzbM) | 서울</br>강남 | #스타트업, #네트워킹 | 무료 |
-| 2019.10.2-3 | [AI x Rovotics : The First](https://festa.io/events/526) | 서울</br>강서 | #AI, #Robotics | 유료 |
 | 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
 | 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울</br>강남 | #AI, 머신러닝, 데이터사이언스, 대학생 | 무료 |
 | 2019.10.10 | [스타트업 테크-챌린지 4th](https://peoplefund-tech.github.io/startup-tech-challenge/?fbclid=IwAR3BBrFdaWNWWF_BcQvlB7sglljY1X9Xa8yemSqW-kzIa4mC6fC0iX94BBA) | 서울</br>강남 | #AWS, EC2, ECS, DB, DevOps | 무료 |
