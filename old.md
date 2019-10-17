@@ -87,6 +87,11 @@
 | 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
 | 2019.10.2 | [스타일쉐어 컨퍼런스 1회 - Python Backend](https://festa.io/events/556?fbclid=IwAR2iDmLjUHNBcUK6tuktmJxsUGYdshDXWAC_zXWr3NZd7c5RY06ILhaHzbM) | 서울</br>강남 | #스타트업, #네트워킹 | 무료 |
 | 2019.10.2-3 | [AI x Rovotics : The First](https://festa.io/events/526) | 서울</br>강서 | #AI, #Robotics | 유료 |
+| 2019.10.5 | [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009) | 서울</br>종로 | .NET Core | 유료 |
+| 2019.10.6 | [AIU 10월 Open AI Conference](https://festa.io/events/450) | 서울</br>강남 | #AI, 머신러닝, 데이터사이언스, 대학생 | 무료 |
+| 2019.10.10 | [스타트업 테크-챌린지 4th](https://peoplefund-tech.github.io/startup-tech-challenge/?fbclid=IwAR3BBrFdaWNWWF_BcQvlB7sglljY1X9Xa8yemSqW-kzIa4mC6fC0iX94BBA) | 서울</br>강남 | #AWS, EC2, ECS, DB, DevOps | 무료 |
+| 2019.10.10 | [AWSKRUG 데이터사이언스모임](https://www.meetup.com/ko-KR/awskrug/events/264710367/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0LoOarPNuhYTPy6k0qhd--WTZaPCKgJgTV1rvFLHQOMiU5e1cspDBq-Hw) | 서울</br>강남 | #AWS, #네트워킹 | 유료 |
+| 2019.10.11-12 | [2019 마이데이터 액팅 해커톤](https://www.onoffmix.com/event/190397) | 서울</br>강남 | #해커톤, 마이데이터 | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
