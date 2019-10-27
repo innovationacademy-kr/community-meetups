@@ -28,20 +28,12 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.9.4-10.13 | [네이버 AI speech 해커톤](https://campaign.naver.com/aihackathon_speech/?fbclid=IwAR1_v3ztTpWC5E6uT1hutJtLKuTyDEv8AZCAIf8rHI746VmCgIeXDu7pdzI) | 춘천 | #해커톤, #AI, 머신러닝, Speech | 무료 |
-| 2019.10.16-17 | [Samsung Open Source Conference 2019](https://www.soscon.net/) | 서울</br>서초 | #오픈소스, #AI, 5G, Robot, Platform, Security |  무료 |
-| 2019.10.12-13 | [Digital Health Hackathon 2019](https://festa.io/events/438) | 서울</br>강남 | #해커톤, #의료, 메디컬 | 무료 |
-| 2019.10.15 | [AWSKRUG DevOps 모임](https://www.meetup.com/ko-KR/awskrug/events/264611630/?utm_source=dlvr.it&utm_medium=facebook&fbclid=IwAR0qJVLHSDWvgJwgBw32HtUJahPbmRAXxzlmL3Hhb5fhxw6QndsNduoJO7Q) | 서울</br> 강남 | #AWS, #DevOps | 유료 |
-| 2019.10.16 | [Red Hat Forum Seoul Korea Micro](https://events.redhat.com/profile/web/index.cfm?PKwebID=0x19020abcd&sc_cid=7013a000002CsQ6AAK&fbclid=IwAR1dY5kIgMz3oavd-jJ60sSP2dCUj_7QOPrREOGq6_yC87dqtXrdFDXHCVs) | 서울</br>강남 | 다양 | 유료 |
-| 2019.10.18 | [애자일 코리아 컨퍼런스 2019](https://festa.io/events/426) | 서울</br>강남 | #애자일 | 유료 |
-| 2019.10.19 | [데이터야놀자 2019](https://datayanolja.github.io/) | 서울</br>종로 | Data | 유료 |
-| 2019.10.19-20 | [게기스 3회 게임잼](https://www.onoffmix.com/event/192589) | 서울</br>강남 | #해커톤 | 유료 |
-| 2019.10.26 | [FEConf2019](http://2019.feconf.kr/) | 서울</br>잠실 | 프론트엔드 | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
 | 2019.11.7-10 | [제주 블록체인 해커톤](http://www.jjbw.io/) | 제주시 | #블록체인, 클레이튼 | 무료 |
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
+| 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
 
