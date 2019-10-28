@@ -34,6 +34,7 @@
 | 2019.11.7-10 | [제주 블록체인 해커톤](http://www.jjbw.io/) | 제주시 | #블록체인, 클레이튼 | 무료 |
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
+| 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
 | 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
