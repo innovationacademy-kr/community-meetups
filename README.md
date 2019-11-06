@@ -65,3 +65,4 @@
 * [윤 재석](mailto:yjaeseok@gmail.com)
 * [이 민석](mailto:ykhl1itj@gmail.com)
 * [이 하늘](mailto:lee.haneul@gmail.com)
+* [최 원영](https://blog.voidmainvoid.net/)
