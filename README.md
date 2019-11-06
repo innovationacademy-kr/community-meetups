@@ -33,6 +33,7 @@
 | 2019.11.6 | [AWSome Day](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=apac_field_t1_awsome-day_20191106&sc_publisher=idg_3rd&sc_country=kr&sc_geo=mult&sc_category=mult&sc_outcome=field&trkCampaign=awsome-day-online&trk=em_3p_idg_3rd_awsomeday19_kr) | 온라인 | #AWS,클라우드 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
 | 2019.11.7-10 | [제주 블록체인 해커톤](http://www.jjbw.io/) | 제주시 | #블록체인, 클레이튼 | 무료 |
+| 2019.11.12 | [Let'Swift 2019: 레츠스위프트](http://letswift.kr/) | 서울</br>at센터 | #스위프트, #Swift, #오픈소스, #모바일, #iOS, #커뮤니티 | 유료 |
 | 2019.11.15 | [개발자 커리어 로드맵](https://innovationlab191115seminar.splashthat.com/?fbclid=IwAR1fPyzhQMC0Ajaemdb4jkVCM7nARccd_0NO_BMa_7rYovDZkFVZNsTkZDk) | 서울</br>강남 | #커리어 | 무료 |
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
