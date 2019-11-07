@@ -43,6 +43,7 @@
 | 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
 | 2019.11.23 | [MASOCON 2019](https://www.imaso.co.kr/masocon2019/) | 서울</br>상암 | #소프트웨어 #개발 | 조건부 무료 |
 | 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
+| 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
 | 2019.12.9 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 | - |
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
