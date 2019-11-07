@@ -28,7 +28,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.11.16 | [let us: Go! iOS Developers Korea](https://iosdevkor.github.io/let_us_go_2019_fall/) | 서울</br>강남 | #Swift, #iOS | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.6 | [AWSome Day](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=apac_field_t1_awsome-day_20191106&sc_publisher=idg_3rd&sc_country=kr&sc_geo=mult&sc_category=mult&sc_outcome=field&trkCampaign=awsome-day-online&trk=em_3p_idg_3rd_awsomeday19_kr) | 온라인 | #AWS,클라우드 | 무료 |
@@ -37,6 +36,7 @@
 | 2019.11.12 | [Let'Swift 2019: 레츠스위프트](http://letswift.kr/) | 서울</br>at센터 | #스위프트, #Swift, #오픈소스, #모바일, #iOS, #커뮤니티 | 유료 |
 | 2019.11.12 | [Cloudera Sessions 2019](https://kr.cloudera.com/seoul-sessions) | 서울</br>신라</br>호텔 | #클라우데라, #빅데이터, #하둡, #카프카 | 무료 |
 | 2019.11.15 | [개발자 커리어 로드맵](https://innovationlab191115seminar.splashthat.com/?fbclid=IwAR1fPyzhQMC0Ajaemdb4jkVCM7nARccd_0NO_BMa_7rYovDZkFVZNsTkZDk) | 서울</br>강남 | #커리어 | 무료 |
+| 2019.11.16 | [let us: Go! iOS Developers Korea](https://iosdevkor.github.io/let_us_go_2019_fall/) | 서울</br>강남 | #Swift, #iOS | 유료 |
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
