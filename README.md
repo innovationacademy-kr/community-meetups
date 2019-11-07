@@ -28,6 +28,7 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
+| 2019.11.16 | [let us: Go! iOS Developers Korea](https://iosdevkor.github.io/let_us_go_2019_fall/) | 서울</br>강남 | #Swift, #iOS | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.6 | [AWSome Day](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=apac_field_t1_awsome-day_20191106&sc_publisher=idg_3rd&sc_country=kr&sc_geo=mult&sc_category=mult&sc_outcome=field&trkCampaign=awsome-day-online&trk=em_3p_idg_3rd_awsomeday19_kr) | 온라인 | #AWS,클라우드 | 무료 |
