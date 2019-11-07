@@ -61,7 +61,7 @@
 
 ### 이 문서의 공헌자 (가나다순)
 
-* [길 준호](appleceo@kakao.com)
+* [길 준호](mailto:appleceo@kakao.com)
 * [송 치오](mailto:ghsehr1@gmail.com)
 * [윤 재석](mailto:yjaeseok@gmail.com)
 * [이 민석](mailto:ykhl1itj@gmail.com)
