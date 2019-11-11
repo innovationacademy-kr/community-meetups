@@ -105,6 +105,7 @@
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.6 | [AWSome Day](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=apac_field_t1_awsome-day_20191106&sc_publisher=idg_3rd&sc_country=kr&sc_geo=mult&sc_category=mult&sc_outcome=field&trkCampaign=awsome-day-online&trk=em_3p_idg_3rd_awsomeday19_kr) | 온라인 | #AWS,클라우드 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
+| 2019.11.7-10 | [제주 블록체인 해커톤](http://www.jjbw.io/) | 제주시 | #블록체인, 클레이튼 | 무료 |
 | [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
