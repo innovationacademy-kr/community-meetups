@@ -44,6 +44,7 @@
 | 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
 | 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
 | 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
+| 2019.11.말 | [입문자를 위한 자바스크립트 : 입문과 중급사이]( https://forms.gle/7Jd7GtJjViC3BoUT7) | 서울</br>강남 | #자바스크립트 | 유료 |
 | 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 |
 | 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 |
 | 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 |
