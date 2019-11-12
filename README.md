@@ -44,6 +44,7 @@
 | 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
 | 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
 | 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 |
+| 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 |
 | 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 |
 | 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 |
 | 2019.12.9 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 | - |
