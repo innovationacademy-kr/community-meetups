@@ -45,6 +45,7 @@
 | 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
 | 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
 | 2019.11.말 | [입문자를 위한 자바스크립트 : 입문과 중급사이]( https://forms.gle/7Jd7GtJjViC3BoUT7) | 서울</br>강남 | #자바스크립트 | 유료 |
+| 2019.11.30-12.01 | [제주웹컨퍼런스(숙식제공)](https://jejuweb.kr/) | 제주</br>서귀포 | #웹 #콘텐츠 | 무료 |
 | 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 |
 | 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 |
 | 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 |
