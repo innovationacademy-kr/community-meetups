@@ -56,6 +56,7 @@
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
 | 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - |
+| 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
