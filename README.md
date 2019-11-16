@@ -28,16 +28,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.11.12 | [Let'Swift 2019: 레츠스위프트](http://letswift.kr/) | 서울</br>at센터 | #스위프트, #Swift, #오픈소스, #모바일, #iOS, #커뮤니티 | 유료 |
-| 2019.11.12 | [Cloudera Sessions 2019](https://kr.cloudera.com/seoul-sessions) | 서울</br>신라</br>호텔 | #클라우데라, #빅데이터, #하둡, #카프카 | 무료 |
-| 2019.11.15 | [개발자 멘토모집 설명회](https://www.onoffmix.com/event/200409) | 서울</br>강남 | #커리어 | 무료 |
-| 2019.11.15 | [개발자 커리어 로드맵](https://innovationlab191115seminar.splashthat.com/?fbclid=IwAR1fPyzhQMC0Ajaemdb4jkVCM7nARccd_0NO_BMa_7rYovDZkFVZNsTkZDk) | 서울</br>강남 | #커리어 | 무료 |
-| 2019.11.15 | [부산 개발자 밋업 - 효율적인 개발을 위한 유쾌한 강연!](https://onoffmix.com/event/199718?fbclid=IwAR0qPc2JcSeq0Fsc8_i1tl5ymMMDRxBL356V_TV4C8w00yMQodzn9wFnnvU) | 부산</br>해운대 | #챗봇, #생산성 | 무료 |
-| 2019.11.15 | [TOAST for Game 세미나](https://www.facebook.com/events/1283559588496634/) | 부산</br>벡스코 | #게임 | 무료구 |
-| 2019.11.16 | [let us: Go! iOS Developers Korea](https://iosdevkor.github.io/let_us_go_2019_fall/) | 서울</br>강남 | #Swift, #iOS | 유료 |
-| 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
-| 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
-| 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
 | 2019.11.17 | [오픈소스 미니 해커톤](https://www.oss.kr/kosslab_notice/show/fe058445-a9cc-4eea-a9a3-bc54b4c9abc6) | 서울</br>한양대 | #오픈소스 #타이젠 | 무료 |
 | 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
 | 2019.11.22-24 | [Startup Weekend Seoul](https://www.facebook.com/events/798791233912267/) | 서울</br>강남 | #해커톤 #개발 #디자인 #기획 #스타트업 #네트워킹 | 유료 |
