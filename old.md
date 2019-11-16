@@ -1,10 +1,15 @@
 # 지난 community-meetups
 
-태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드, #스타트업
+
+2019년 8월 이전은 기록이 없습니다.
+
+[최근 이벤트](README.md)는 [README.md](README.md)에 있습니다.
+
+<details>
+<summary>2019년 8월</summary><p>
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
-| 2019.8.4 | 이전은 | - | 몰라요 ㅠㅠ | - |
 | 2019.8.5-12.15 | [공개SW 컨트리뷰톤](https://www.oss.kr/contributhon_overview) | 서울           | #AI, 모바일등 모든 주제              | 무료 |
 | 2019.8.15 | [[Open Secure Lab] 제5회 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | #보안, 정보보안, 모의해킹, 취약점분석 | 무료 |
 | 2019.8.15 | [파이콘 한국 2019(15-16 스프린트, 15-16 튜토리얼, 17-18 컨퍼런스)](https://www.pycon.kr/) | 서울강남 | #Python | 유료 |
@@ -36,6 +41,13 @@
 | 2019.8.30-31 | [[AWSKRUG, AUSG 주관 해커톤] 2019 제 2회 Amathon :: 대학생 및 주니어 개발자, 디자이너 대상](https://amathon.ga) | 서울</br>역삼 | #AWS, #해커톤, 대학생 | 유료 |
 | 2019.8.31 | [GDG Korea Android 안드로이드 탐구영역](https://festa.io/events/441) | 서울</br>송파 | 안드로이드 테스트 | 무료 |
 | 2019.8.31 | [2019 Developer Circles Community Challenge](https://fb2019buildday.splashthat.com/) | 서울</br>중구 | React360, Spark AR, HTML5 Games, Facebook, 팀빌딩            | 무료 |
+
+</p></details>
+<details>
+<summary>2019년 9월</summary><p>
+
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
+| :-: | :- | :-: | :- | :-: |
 | 2019.9.1 | [[COCKTAIL-PROJECT] 사이드프로젝트 밋업 이벤트](https://event-us.kr/culturelaboratory/event/9773) | 서울</br>강남 | #네트워킹, 사이드프로젝트, 개발자, 디자이너 | 유료 |
 | 2019.9.2 | [GDG Korea WebTech 천하제일 고민대회](https://festa.io/events/431) | 서울</br>강남 | #네트워킹 | 유료 |
 | 2019.9.3 | [AWSKRUG CLI모임 (9월 3일)](https://www.meetup.com/ko-KR/awskrug/events/263931822/) | 서울</br>강남 | #AWS, CLI, ECS Fargate, AWS Tool for PowerShell Core | 유료 |
@@ -82,6 +94,13 @@
 | 2019.9.28 | [스.뽀.콘 - 스타트업 뽀시래기 콘퍼런스](https://event-us.kr/bbosiraegi/event/10532?fbclid=IwAR0AGZhrKjZ2QiDcrUJhaaaxQiw3TW3yQouxmgicH_gtoiNfC-GI0GsMwJ8) | 서울</br>강남 | #네트워킹 | 유료 |
 | 2019.9.29 | [Korea Blockchain Week 2019 - "The Unofficial Pre-Party"](https://www.meetup.com/ko-KR/meetup-group-hscDvlBW/events/263638679/) | 서울</br>강남 | #블록체인 | 무료 |
 | 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
+
+</p></details>
+<details>
+<summary>2019년 10월</summary><p>
+
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
+| :-: | :- | :-: | :- | :-: |
 | 2019.10.1 | [Coin Geek Seoul Conference](https://www.meetup.com/ko-KR/Seoul-Bitcoin-Club/events/264180349/) | 서울</br>강남 | #블록체인, Bitcoin, BSV, crypto mining | 무료 |
 | 2019.10.1 | [데브옵스의 날](https://devopsday.devopskorea.org/?fbclid=IwAR1ivbS-VMqTUS1Itu3o2_W9keJUJHlG3w6HmaNSmmPmF8AdsGYqmeLWnzs) | 서울</br>서대문 | #DevOps, #클라우드, #애자일 | 유료 |
 | 2019.10.2 | [GDM 2019 GitHub in DevOps Meetup - GitHub과 기업내 오픈소스 문화](https://festa.io/events/471) | 서울</br>강남 | #오픈소스, #git, #DevOps, GitHub | 무료 |
@@ -102,6 +121,13 @@
 | 2019.10.19-20 | [게기스 3회 게임잼](https://www.onoffmix.com/event/192589) | 서울</br>강남 | #해커톤 | 유료 |
 | 2019.10.26 | [FEConf2019](http://2019.feconf.kr/) | 서울</br>잠실 | 프론트엔드 | 유료 |
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
+
+</p></details>
+<details>
+<summary>2019년 11월</summary><p>
+
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
+| :-: | :- | :-: | :- | :-: |
 | 2019.11.05 | [서울 이노베이션 퀵파이어 챌린지: 스마트 헬스케어(Smart Healthcare)](https://event-us.kr/seoulbiohub/event/9446) | 서울</br>동대문 | #블록체인, #AI, 빅데이터, 인공지능 | 무료 |
 | 2019.11.6 | [AWSome Day](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=apac_field_t1_awsome-day_20191106&sc_publisher=idg_3rd&sc_country=kr&sc_geo=mult&sc_category=mult&sc_outcome=field&trkCampaign=awsome-day-online&trk=em_3p_idg_3rd_awsomeday19_kr) | 온라인 | #AWS,클라우드 | 무료 |
 | 2019.11.7 | [한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/6th/?fbclid=IwAR0Q1rHfVDGZtk0mrOB5kY4eL0douDAGEfZdG7hC1EhGH2nGd_Nme4xbwJk) | 서울</br>강남 | #네트워킹, 리눅스, 커널 |  |
@@ -116,7 +142,10 @@
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
-| [이후](README.md) |[모든 이벤트](README.md)|[-](README.md)|[-](README.md)|[-](README.md)|
+
+</p></details>
+
+[이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
 
 이 리스트에서 추가할 사항이 있으시거나 오류가 있다면,
 직접 수정하여 Pull Request를 날려주시면 감사하겠습니다.
