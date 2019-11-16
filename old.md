@@ -5,8 +5,11 @@
 
 [최근 이벤트](README.md)는 [README.md](README.md)에 있습니다.
 
+아래를 클릭하면 해당 월의 이벤트가 나옵니다.
+
+[//]: # (<details><summary>2019년</summary><p>)
 <details>
-<summary>2019년 8월</summary><p>
+<summary> 2019년 8월</summary><p>
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -43,8 +46,7 @@
 | 2019.8.31 | [2019 Developer Circles Community Challenge](https://fb2019buildday.splashthat.com/) | 서울</br>중구 | React360, Spark AR, HTML5 Games, Facebook, 팀빌딩            | 무료 |
 
 </p></details>
-<details>
-<summary>2019년 9월</summary><p>
+<details><summary> 2019년 9월</summary><p>
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -96,8 +98,7 @@
 | 2019.9.30 | [[마이크로 서비스 따라하기 꿀밋업 시리즈3] 3탄 - Spring Boots를 사용한 마이크로 서비스 개발과 페어 프로그래밍 데모](https://www.meetup.com/ko-KR/Seoul-Cloud-Foundry-Meetup/events/264485819/?fbclid=IwAR0Yf8RaQAws1g7qUmmHULuBsPSJ5wS6E7OoAiN7O5Tjg51fcmTbhjTDpmo) | 서울</br>강남 |  | 무료 |
 
 </p></details>
-<details>
-<summary>2019년 10월</summary><p>
+<details><summary> 2019년 10월</summary><p>
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -123,8 +124,7 @@
 | 2019.10.28-29 | [DEVIEW 2019](https://www.deview.kr/2019) | 서울</br>강남 | #AI, #보안, 웹, 모바일, 프론트엔드, 백엔드, 클라우드, SRE, 인프라, 최적화, 데이터 사이언스, 검색, 음성인식, 컴퓨터비전, 미디어 처리/플랫폼, AR, 지도/측위, 자율주행, 로보틱스 | 무료 |
 
 </p></details>
-<details>
-<summary>2019년 11월</summary><p>
+<details><summary> 2019년 11월</summary><p>
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
@@ -144,6 +144,7 @@
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
 
 </p></details>
+[//]: # (</p></details>)
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
 
