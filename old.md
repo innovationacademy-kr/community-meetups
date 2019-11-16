@@ -144,6 +144,7 @@
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
 
 </p></details>
+
 [//]: # (</p></details>)
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
