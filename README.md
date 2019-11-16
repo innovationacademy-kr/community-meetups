@@ -42,6 +42,7 @@
 | 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
 | 2019.11.22-24 | [Startup Weekend Seoul](https://www.facebook.com/events/798791233912267/) | 서울</br>강남 | #해커톤 #개발 #디자인 #기획 #스타트업 #네트워킹 | 유료 |
 | 2019.11.23 | [MASOCON 2019](https://www.imaso.co.kr/masocon2019/) | 서울</br>상암 | #소프트웨어 #개발 | 조건부 무료 |
+| 2019.11.23 | [멋쟁이 사자처럼 컨퍼런스: 세렝게티](http://class.likelion.net/lecture_detail/7/) | 서울</br>강남 | #스타트업 #네트워킹 #채용 #비전공자 | 유료 |
 | 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
 | 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
 | 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
