@@ -28,7 +28,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.11.17 | [오픈소스 미니 해커톤](https://www.oss.kr/kosslab_notice/show/fe058445-a9cc-4eea-a9a3-bc54b4c9abc6) | 서울</br>한양대 | #오픈소스 #타이젠 | 무료 |
 | 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
 | 2019.11.22-24 | [Startup Weekend Seoul](https://www.facebook.com/events/798791233912267/) | 서울</br>강남 | #해커톤 #개발 #디자인 #기획 #스타트업 #네트워킹 | 유료 |
 | 2019.11.23 | [MASOCON 2019](https://www.imaso.co.kr/masocon2019/) | 서울</br>상암 | #소프트웨어 #개발 | 조건부 무료 |
@@ -42,6 +41,7 @@
 | 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 |
 | 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 |
 | 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 |
+| 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 |
 | 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 |
 | 2019.12.07 | [Open Source Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 |
 | 2019.12.09 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 | - |

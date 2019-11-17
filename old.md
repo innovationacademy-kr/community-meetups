@@ -7,7 +7,7 @@
 
 아래를 클릭하면 해당 월의 이벤트가 나옵니다.
 
-[//]: # (<details><summary>2019년</summary><p>)
+[//]: # "<details><summary>2019년</summary><p>"
 <details>
 <summary> 2019년 8월</summary><p>
 
@@ -142,10 +142,10 @@
 | 2019.11.16 | [DevFest on Campus 2019](https://www.meetup.com/ko-KR/GDG-Campus/events/) | 서울</br>이대 | #모바일,웹,클라우드 | 유료 |
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
-
+| 2019.11.17 | [오픈소스 미니 해커톤](https://www.oss.kr/kosslab_notice/show/fe058445-a9cc-4eea-a9a3-bc54b4c9abc6) | 서울</br>한양대 | #오픈소스 #타이젠 | 무료 |
 </p></details>
 
-[//]: # (</p></details>)
+[//]: # "</p></details>"
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
 
