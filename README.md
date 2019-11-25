@@ -28,10 +28,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
-| 2019.11.22-24 | [Startup Weekend Seoul](https://www.facebook.com/events/798791233912267/) | 서울</br>강남 | #해커톤 #개발 #디자인 #기획 #스타트업 #네트워킹 | 유료 |
-| 2019.11.23 | [MASOCON 2019](https://www.imaso.co.kr/masocon2019/) | 서울</br>상암 | #소프트웨어 #개발 | 조건부 무료 |
-| 2019.11.23 | [멋쟁이 사자처럼 컨퍼런스: 세렝게티](http://class.likelion.net/lecture_detail/7/) | 서울</br>강남 | #스타트업 #네트워킹 #채용 #비전공자 | 유료 |
 | 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
 | 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
 | 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
@@ -48,6 +44,7 @@
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
 | 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - |
+| 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 |
 | 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
 
