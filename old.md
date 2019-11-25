@@ -143,6 +143,10 @@
 | 2019.11.16 | [KSUG 2019년 하반기 세미나](http://www.ksug.org/seminar/2019/) | 서울</br>강남 | #웹, #자바, #백엔드 | 유료 |
 | 2019.11.16 | [처음 시작하는 Git/GitHub 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdNN_TdU58CQrj8SHNBzeVRfvdVYLaNQuiGYwEuzlvMDfUWWw/viewform) | 서울</br>홍대 | #깃, #오픈소스 | 유료 |
 | 2019.11.17 | [오픈소스 미니 해커톤](https://www.oss.kr/kosslab_notice/show/fe058445-a9cc-4eea-a9a3-bc54b4c9abc6) | 서울</br>한양대 | #오픈소스 #타이젠 | 무료 |
+| 2019.11.18 | [React hooks: 훅마법사의 시대](https://www.facebook.com/groups/DevCSeoul/) | 서울</br>강남 | #react hooks | 무료 |
+| 2019.11.22-24 | [Startup Weekend Seoul](https://www.facebook.com/events/798791233912267/) | 서울</br>강남 | #해커톤 #개발 #디자인 #기획 #스타트업 #네트워킹 | 유료 |
+| 2019.11.23 | [MASOCON 2019](https://www.imaso.co.kr/masocon2019/) | 서울</br>상암 | #소프트웨어 #개발 | 조건부 무료 |
+| 2019.11.23 | [멋쟁이 사자처럼 컨퍼런스: 세렝게티](http://class.likelion.net/lecture_detail/7/) | 서울</br>강남 | #스타트업 #네트워킹 #채용 #비전공자 | 유료 |
 </p></details>
 
 [//]: # "</p></details>"
