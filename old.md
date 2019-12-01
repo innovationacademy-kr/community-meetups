@@ -156,6 +156,7 @@
 | 2019.11.30-12.01 | [제주웹컨퍼런스(숙식제공)](https://jejuweb.kr/) | 제주</br>서귀포 | #웹 #콘텐츠 | 무료 |
 </p></details>
 <details><summary> 2019년 12월</summary><p>
+  
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
 | :-: | :- | :-: | :- | :-: | :-: |
 </p></details>
