@@ -25,7 +25,7 @@
 
 태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드, #스타트업
 
-| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |연사모집|
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 | - |
@@ -33,7 +33,7 @@
 | 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 | - |
 | 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 | - |
 | 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 | - |
-| 2019.12.07 | [Open Source Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 |
+| 2019.12.07 | [Open Source Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 | - |
 | 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - | - |
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 | - |
