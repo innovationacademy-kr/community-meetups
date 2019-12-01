@@ -21,36 +21,29 @@
 
 ### 앞으로 있을 행사들 목록
 
-아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다.
+아래 날짜는 신청기간 또는 행사기간입니다. 구체적인 일정은 클릭해서 확인해야 합니다. 연사모집 링크는 \*을 누르면 됩니다.  
 
 태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드, #스타트업
 
-| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
-| :-: | :- | :-: | :- | :-: |
-| [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.11.27 | [NHN FORWARD 2019](https://forward.nhn.com/) | 서울</br>강남 | #개발방법론, #검색, #게임, #백엔드, #빅데이터, #인프라, #머신러닝, #프런트엔드, #클라우드  | 무료 |
-| 2019.11.28 | [Google Webmaster Conference Seoul](https://events.withgoogle.com/webmaster-conf-seoul-2019/) | 서울</br>강남 | #웹, #검색성능  | 무료 |
-| 2019.11.29 | [TXGX 2019](https://www.txgx.io/) | 서울</br>강남 | #블록체인 #Klaytn | 무료 |
-| 2019.11.29-30 | [건양 헬쓰 데이터톤](https://form.office.naver.com/form/responseView.cmd?formkey=YzcyNzRmMTctM2EyYS00NTU0LTk2YWItNGIyNGQyNjRmYzRj&sourceId=urlshare) | 대전</br>건양대 | #알고리즘 #AI| 무료 |
-| 2019.11.말 | [GDG DEVFEST Songdo 2019](https://festa.io/events/571) | 인천</br>송도 | #Flutter, #RXJava, #GraphQL, #AI, #TensorFlow | 유료
-| 2019.11.말 | [입문자를 위한 자바스크립트 : 입문과 중급사이]( https://forms.gle/7Jd7GtJjViC3BoUT7) | 서울</br>강남 | #자바스크립트 | 유료 |
-| 2019.11.30-12.01 | [제주웹컨퍼런스(숙식제공)](https://jejuweb.kr/) | 제주</br>서귀포 | #웹 #콘텐츠 | 무료 |
-| 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 |
-| 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 |
-| 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 |
-| 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 |
-| 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 |
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |연사모집|
+| :-: | :- | :-: | :- | :-: | :-: |
+| [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
+| 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 | - |
+| 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 | - |
+| 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 | - |
+| 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 | - |
+| 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 | - |
 | 2019.12.07 | [Open Source Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 |
-| 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - |
-| 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 |
-| 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 |
-| 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - |
-| 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 |
-| 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 |
-| 2019.12.14 | [2019년 하드코딩하는 사람들 세미나](https://cafe.naver.com/hacosa/262011) | 서울</br>논현동 | #AR #React native | 유료 |
-| 2019.12.19 | [IT인프라 엔지니어 그룹 밋업](https://festa.io/events/757) | 서울</br>송파 | #테라폼 #쿠버네티스 #터미널 | 유료 |
-| 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 |
-| 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 |
+| 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - | - |
+| 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
+| 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 | - |
+| 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - | - |
+| 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 | - |
+| 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 | - |
+| 2019.12.14 | [2019년 하드코딩하는 사람들 세미나](https://cafe.naver.com/hacosa/262011) | 서울</br>논현동 | #AR #React native | 유료 | - |
+| 2019.12.19 | [IT인프라 엔지니어 그룹 밋업](https://festa.io/events/757) | 서울</br>송파 | #테라폼 #쿠버네티스 #터미널 | 유료 | - |
+| 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 | - |
+| 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
