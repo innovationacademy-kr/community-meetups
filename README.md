@@ -36,6 +36,7 @@
 | 2019.12.07 | [Open Source Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 | - |
 | 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - | - |
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
+| 2019.12.10 | [Klaytn Developer Meetup](https://festa.io/events/728) | 서울</br>강남 | #블록체인 #클레이튼 | - | - |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 | - |
 | 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - | - |
 | 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 | - |
