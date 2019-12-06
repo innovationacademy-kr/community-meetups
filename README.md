@@ -42,6 +42,7 @@
 | 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 | - |
 | 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 | - |
 | 2019.12.14 | [2019년 하드코딩하는 사람들 세미나](https://cafe.naver.com/hacosa/262011) | 서울</br>논현동 | #AR #React native | 유료 | - |
+| 2019.12.14 | [설리번프로젝트 2020 겨울학기 설명회](https://event-us.kr/sullivanproject/event/13622) | 서울</br>역삼 | #소프트웨어교육 #봉사 | 무료 | - |
 | 2019.12.19 | [IT인프라 엔지니어 그룹 밋업](https://festa.io/events/757) | 서울</br>송파 | #테라폼 #쿠버네티스 #터미널 | 유료 | - |
 | 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 | - |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
