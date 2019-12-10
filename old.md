@@ -159,8 +159,16 @@
   
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
 | :-: | :- | :-: | :- | :-: | :-: |
+| 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 | - |
+| 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 | - |
+| 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 | - |
+| 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 | - |
+| 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 | - |
+| 2019.12.07 | [Open Resource Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 | - |
+| 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - | - |
+| 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
+| 2019.12.10 | [Klaytn Developer Meetup](https://festa.io/events/728) | 서울</br>강남 | #블록체인 #클레이튼 | - | - |
 </p></details>
-
 [//]: # "</p></details>"
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
