@@ -169,6 +169,7 @@
 | 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
 | 2019.12.10 | [Klaytn Developer Meetup](https://festa.io/events/728) | 서울</br>강남 | #블록체인 #클레이튼 | - | - |
 </p></details>
+
 [//]: # "</p></details>"
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
