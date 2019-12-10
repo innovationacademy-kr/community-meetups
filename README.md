@@ -28,15 +28,6 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.12.02 | [Google Webmaster Conference Gwangju](https://events.withgoogle.com/webmaster-conf-gwangju-2019/) | 광주</br>전남대 | #웹, #검색성능 | 무료 | - |
-| 2019.12.04 | [KOSSCON-공개SW 컨트리뷰션 페스티벌](https://www.oss.kr/event) | 서울</br>코엑스 | #AI, #빅데이터, #클라우드, #블록체인 | 무료 | - |
-| 2019.12.04 | [Google Webmaster Conference Busan](https://events.withgoogle.com/webmaster-conf-busan-2019/) | 부산</br>부산대 | #웹, #검색성능 | 무료 | - |
-| 2019.12.05 | [ZEIT Korea Community Meetup](https://www.meetup.com/ko-KR/ZEIT-Korea-Community/events/266312027/) | 서울</br>강남 | #호스팅플랫폼 | 무료 | - |
-| 2019.12.06 | [Google Webmaster Conference Daegu](https://events.withgoogle.com/webmaster-conf-daegu-2019/) | 대구</br>경북대 | #웹, #검색성능 | 무료 | - |
-| 2019.12.07 | [Open Resource Hackathon Seoul 2019](https://festa.io/events/699) | 서울</br>삼성동 | #오픈소스, #AIN #docker | 무료 | - |
-| 2019.12.07 | [모두콘 2019](https://www.facebook.com/lab4all/) | 서울</br>관악 | #AI #머신러닝 #교육 | - | - |
-| 2019.12.9-10 | [Kubernetes Forum Seoul](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/) | 서울</br>용산 | #클라우드 | 유료 | - |
-| 2019.12.10 | [Klaytn Developer Meetup](https://festa.io/events/728) | 서울</br>강남 | #블록체인 #클레이튼 | - | - |
 | 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 | - |
 | 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - | - |
 | 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 | - |
@@ -45,6 +36,7 @@
 | 2019.12.14 | [설리번프로젝트 2020 겨울학기 설명회](https://event-us.kr/sullivanproject/event/13622) | 서울</br>역삼 | #소프트웨어교육 #봉사 | 무료 | - |
 | 2019.12.19 | [IT인프라 엔지니어 그룹 밋업](https://festa.io/events/757) | 서울</br>송파 | #테라폼 #쿠버네티스 #터미널 | 유료 | - |
 | 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 | - |
+| 2019.12.28 | [파이썬 사용자 모임 연말 파티](https://festa.io/events/796) | 서울</br>홍대 | #파이선 | 유료 | - |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
