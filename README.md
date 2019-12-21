@@ -38,6 +38,7 @@
 | 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 | - |
 | 2019.12.28 | [파이썬 사용자 모임 연말 파티](https://festa.io/events/796) | 서울</br>홍대 | #파이선 | 유료 | - |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
+| 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
