@@ -28,17 +28,9 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2019.12.11 | [SPARKLABS DEMODAY](http://www.sparklabsdemoday.com/kr/index.php) | 서울</br>강남 | 엑셀러레이터, 데모데이, 스타트업 | 무료 | - |
-| 2019.12.13 | [Little Big Data: 다양한 사람들의 데이터 사이언스 이야기 송년회](https://www.facebook.com/photo.php?fbid=2449162971863288&set=a.103662933079982&type=3&theater) | 서울</br>선릉 | #데이터 #회고 | - | - |
-| 2019.12.13 | [DevGround Junior 2019](http://devground.hanbit.co.kr/) | 서울</br>연희동 | #AI #성장 | 유료 | - |
-| 2019.12.14 | [오픈소스 튜토리얼](https://festa.io/events/714?fbclid=IwAR1Wy7Th8BNPgTjZYtAkuEJIAfQUHETXlCaK_xiC4orDT7K7oVDGgbFBjbQ) | 서울</br>연희동 | #오픈소스 #데이터 # | 유료 | - |
-| 2019.12.14 | [2019년 하드코딩하는 사람들 세미나](https://cafe.naver.com/hacosa/262011) | 서울</br>논현동 | #AR #React native | 유료 | - |
-| 2019.12.14 | [설리번프로젝트 2020 겨울학기 설명회](https://event-us.kr/sullivanproject/event/13622) | 서울</br>역삼 | #소프트웨어교육 #봉사 | 무료 | - |
-| 2019.12.19 | [IT인프라 엔지니어 그룹 밋업](https://festa.io/events/757) | 서울</br>송파 | #테라폼 #쿠버네티스 #터미널 | 유료 | - |
-| 2019.12.21 | [Android Dev Summit 2019 extended Seoul](https://festa.io/events/744?fbclid=IwAR2QodZ9UI1kOIvXFBxyD6aN5csFCbq9By1BGk5ZZZEbravSgbrMkmMIJDM) | 서울</br>삼성 | #Android #Security #Coroutine | 유료 | - |
-| 2019.12.28 | [파이썬 사용자 모임 연말 파티](https://festa.io/events/796) | 서울</br>홍대 | #파이선 | 유료 | - |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 | 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
+| 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
