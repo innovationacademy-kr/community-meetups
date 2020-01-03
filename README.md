@@ -33,6 +33,7 @@
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 | 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
+| 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
