@@ -30,6 +30,7 @@
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2020.1.13 | [[F# 2020 첫 모임] "Why F#?"](https://www.meetup.com/ko-KR/FSharp-Korea/events/267338504/) | 서울 | F# | 무료 | - |
 | 2020.1.15 | [레츠스위프트 판교](https://festa.io/events/803) | 판교 | iOS, Swift | ₩10,000 | 4명 |
+| 2020.1.20 | [Microsoft 본사 개발자(Anthony Chu) 대담](https://festa.io/events/853) | 서울</br>강남 | 서버리스, 클라우드 | 무료 | - |
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 | 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
