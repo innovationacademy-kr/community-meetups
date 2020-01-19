@@ -25,7 +25,7 @@
 
 태그 목록 : #해커톤, #AI, #보안, #블록체인, #AWS, #git, #네트워킹, #오픈소스, #경력관리, #SI, #Python, #의료, #핀테크, #DevOps, #IoT, #ICT, #애자일, #Robotics, #클라우드, #스타트업
 
-| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연사&nbsp;구함 |
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연사</br>구함 |
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2020.1.13 | [[F# 2020 첫 모임] "Why F#?"](https://www.meetup.com/ko-KR/FSharp-Korea/events/267338504/) | 서울 | F# | 무료 | - |
