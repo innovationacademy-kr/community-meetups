@@ -34,6 +34,7 @@
 | 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
 | 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
+| 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
 
