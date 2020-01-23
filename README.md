@@ -37,7 +37,7 @@
 | 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
-| 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집중](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
+| 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
