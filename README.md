@@ -32,8 +32,10 @@
 | 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
+| 2020.2.29 | [KCD-Korea COmmunity Day](-) | 서울 | 다양한 주제 | 유료 | - |
 | 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
-| 2020.3.38 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
+| 2020.3.26 | [제7회 한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/7th/?fbclid=IwAR0ytsRfnEGm3Fd1tc1WenDO39kwkd4cdSkaWXHs7IJ1tSV79GF1-647bKk) | 서울</br>강남 | 리눅스커널 | ?? | - |
+| 2020.3.28 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
