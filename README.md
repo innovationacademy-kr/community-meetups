@@ -29,6 +29,7 @@
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
+| 2020.2.3 | [F# 5.0 and .NET 5 with Phillip Carter](https://www.meetup.com/ko-KR/FSharp-Korea/events/268031493/) | 서울 | F# | 무료 | 상시 |
 | 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
