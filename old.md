@@ -179,6 +179,16 @@
 | 2019.12.28 | [파이썬 사용자 모임 연말 파티](https://festa.io/events/796) | 서울</br>홍대 | #파이선 | 유료 | - |
 </p></details>
 
+<details><summary> 2020년 1월</summary><p>
+  
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
+| :-: | :- | :-: | :- | :-: | :-: |
+| 2020.1.13 | [[F# 2020 첫 모임] "Why F#?"](https://www.meetup.com/ko-KR/FSharp-Korea/events/267338504/) | 서울 | F# | 무료 | - |
+| 2020.1.15 | [레츠스위프트 판교 2차](https://festa.io/events/803) | 판교 | iOS, Swift | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
+| 2020.1.20 | [Microsoft 본사 개발자(Anthony Chu) 대담](https://festa.io/events/853) | 서울</br>강남 | 서버리스, 클라우드 | 무료 | - |
+| 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
+| 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |</p></details>
+
 [//]: # "</p></details>"
 
 [이후 모든 이벤트](README.md)는 [README.md](README.md)에 있습니다.
