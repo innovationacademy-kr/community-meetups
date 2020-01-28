@@ -28,16 +28,12 @@
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연사</br>구함 |
 | :-: | :- | :-: | :- | :-: | :-: |
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2020.1.13 | [[F# 2020 첫 모임] "Why F#?"](https://www.meetup.com/ko-KR/FSharp-Korea/events/267338504/) | 서울 | F# | 무료 | - |
-| 2020.1.15 | [레츠스위프트 판교 2차](https://festa.io/events/803) | 판교 | iOS, Swift | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
-| 2020.1.20 | [Microsoft 본사 개발자(Anthony Chu) 대담](https://festa.io/events/853) | 서울</br>강남 | 서버리스, 클라우드 | 무료 | - |
-| 2020.1.21-22 | [Microsoft Ignite The Tour](https://www.microsoft.com/en-us/ignite-the-tour) | 서울 | 다양한 주제 | 무료 | - |
-| 2020.1.21 | [AWS Comminity Day (re:Invent)](https://pages.awscloud.com/aws-community-day-seoul-2020.html?trkCampaign=community-day-seoul&trk=sm-channy) | 서울</br>세종대 | 다양한 주제 | 무료 | - |
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
 | 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
 | 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
+| 2020.3.38 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
