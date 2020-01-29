@@ -37,6 +37,7 @@
 | 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
 | 2020.3.26 | [제7회 한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/7th/?fbclid=IwAR0ytsRfnEGm3Fd1tc1WenDO39kwkd4cdSkaWXHs7IJ1tSV79GF1-647bKk) | 서울</br>강남 | 리눅스커널 | ?? | - |
 | 2020.3.28 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
+| 2020.4.16-17 | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무 | - |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
