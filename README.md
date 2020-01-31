@@ -7,14 +7,14 @@
 이 리스트에는 개발자들이 청중이거나 주 참여자인 행사들만 나열합니다.
 누가 주최하던 소프트웨어 기술, 개발 문화, 오픈소스 소프트웨어 등등에 관한 커뮤니티 행사와 밋업, 스터디 모임 등이 여기에 해당됩니다.
 
-### 이 문서의 저작권 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
-이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
+### 이 문서의 저작권
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img>
+이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라
 누구나 이용할 수 있습니다. 하지만 복사하여 관리하시려면 힘드시니까,
-가장 관리 노력이 적은 여기에 추가하신 뒤 [이 링크, https://github.com/innovationacademy-kr/community-meetups](https://github.com/innovationacademy-kr/community-meetups)를 
-공유하시어 한 곳에 모든 정보가 모여있게 해주시면 좋겠습니다. 
+가장 관리 노력이 적은 여기에 추가하신 뒤 [이 링크, https://github.com/innovationacademy-kr/community-meetups](https://github.com/innovationacademy-kr/community-meetups)를
+공유하시어 한 곳에 모든 정보가 모여있게 해주시면 좋겠습니다.
 
-[CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/): 
+[CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/):
 비상업적으로 공유하신다면 별도의 허가는 필요없고, 출처만 밝히시면 됩니다.
 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
 저작권을 적용하시는 조건입니다.
@@ -38,6 +38,7 @@
 | 2020.3.26 | [제7회 한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/7th/?fbclid=IwAR0ytsRfnEGm3Fd1tc1WenDO39kwkd4cdSkaWXHs7IJ1tSV79GF1-647bKk) | 서울</br>강남 | 리눅스커널 | ?? | - |
 | 2020.3.28 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
 | 2020.4.16-17 | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무 | - |
+| 2020.8.13-16 | [PyCon Korea 2020](https://www.pycon.kr/) | 서울</br>코엑스 | #python #다양한주제 | 유료(미정) | 모집예정 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
