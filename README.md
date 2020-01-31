@@ -31,13 +31,14 @@
 | 2020.2.1 | [교육 하는 사람들: IT 교육업 종사자 밋업](https://www.notion.so/IT-03c7c832f43148bb9384ee2ef2f70fae) | 미정 | 소프트웨어교육 개발자교육 | 유료 | - |
 | 2020.2.3 | [F# 5.0 and .NET 5 with Phillip Carter](https://www.meetup.com/ko-KR/FSharp-Korea/events/268031493/) | 서울 | F# | 무료 | 상시 |
 | 2020.2.11 | [IoT in Action](https://iotinactionevents.com/ko/event/seoul?ocid=MSFT_AP_KR_IOTALE_OTH_IASE_SMP_SM_CDS_FB_NA&fbclid=IwAR0SQV--mY3ApD9Z26zv_v3akjqNUfOSVi7xFxUua0CoXOmiv8XrBjirxKo#agenda) | 서울</br>강남 | #IOT | 무료 | - |
+| 2020.2.15 | [C++ Korea 2월 미니 세미나](https://festa.io/events/892) | 서울</br>강남 | ₩11,000 | 유료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdppuEgl4gb9WnBaUdCjdlLaV0PV1Z0Apf0fZCAtMDJFBWn_w/viewform) |
 | 2020.2.19 | [AWS Innovate 온라인 컨퍼런스](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/) | 온라인 | #기계학습 #AWS | 무료 | - |
 | 2020.2.20 | [레츠스위프트 판교 3차](https://festa.io/events/869) | 판교 | iOS, Swift, Programming | ₩10,000 | [상시](http://bit.ly/letswift-pg) |
 | 2020.2.29 | [KCD-Korea COmmunity Day](-) | 서울 | 다양한 주제 | 유료 | - |
 | 2020.3.15 | [Women Techmakers Seoul 2020](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) | 서울? | 다양한 주제 | 무료 | [모집](https://docs.google.com/forms/d/e/1FAIpQLScgSNWNEHA7c6D4IpfJncz7TuNjBvKbEDYy5WkITt6vbhU3QQ/viewform) |
 | 2020.3.26 | [제7회 한국 리눅스 커널 개발자 모임](https://kernel-dev-ko.github.io/7th/?fbclid=IwAR0ytsRfnEGm3Fd1tc1WenDO39kwkd4cdSkaWXHs7IJ1tSV79GF1-647bKk) | 서울</br>강남 | 리눅스커널 | ?? | - |
 | 2020.3.28 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
-| 2020.4.16-17 | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무 | - |
+| 2020.4.16-17 | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무료 | - |
 | 2020.8.13-16 | [PyCon Korea 2020](https://www.pycon.kr/) | 서울</br>코엑스 | #python #다양한주제 | 유료(미정) | 모집예정 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
