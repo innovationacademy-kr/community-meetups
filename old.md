@@ -211,6 +211,13 @@
 | 2020.3.28 | [제7회 C++ Korea 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) | 서울? | C++ | ?? | [모집](https://docs.google.com/forms/d/e/1FAIpQLSdtLWZtG5QkrGjVslN6z9evK8XXsuorcwvZu_G7-ivdvRjHDw/viewform) |
 <p></details>
 
+<details><summary> 2020년 4월</summary><p>
+
+| 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연&nbsp;사 |
+| :-: | :- | :-: | :- | :-: | :-: |
+| (취소됨) | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무료 | - |
+<p></details>
+
 
 [//]: # "</p></details>"
 
