@@ -27,10 +27,8 @@
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연사</br>구함 |
 | :-: | :- | :-: | :- | :-: | :-: |
-| [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
-| 2020.4.16-17 | [AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/) | 서울</br>코엑스 | #AWS | 무료 | - |
 | (미정-연기됨) | [KCD-Korea Community Day](https://festa.io/events/909) | 서울</br>광화문 | 다양한 주제 | 유료 | - |
-| 2020.8.13-16 | [PyCon Korea 2020](https://www.pycon.kr/) | 서울</br>코엑스 | #python #다양한주제 | 유료(미정) | 모집예정 |
+| (미정) | [PyCon Korea 2020](https://www.pycon.kr/) | 서울</br>코엑스 | #python #다양한주제 | 유료(미정) | 모집예정 |
 
 ### 그리고 통상적으로 이벤트들이 홍보되고 모집되는 곳들 (직접 검색)
 
