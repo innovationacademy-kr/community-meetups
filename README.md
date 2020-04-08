@@ -27,7 +27,7 @@
 
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;&nbsp;&nbsp;&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 | 연사</br>구함 |
 | :-: | :- | :-: | :- | :-: | :-: |
-| 4.6-5.4 | [2020 오픈소스 컨트리뷰톤]( https://bit.ly/3bXJ9at) | - | 다양한 주제 | 유료 | 멘토모집중 |
+| 4.6-5.4 | [2020 오픈소스 컨트리뷰톤]( https://bit.ly/3bXJ9at) | - | 다양한 주제 | 무료 | 멘토모집중 |
 | (미정-연기됨) | [KCD-Korea Community Day](https://festa.io/events/909) | 서울</br>광화문 | 다양한 주제 | 유료 | - |
 | (미정) | [PyCon Korea 2020](https://www.pycon.kr/) | 서울</br>코엑스 | #python #다양한주제 | 유료(미정) | 모집예정 |
 
