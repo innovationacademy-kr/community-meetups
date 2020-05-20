@@ -29,6 +29,7 @@
 | :-: | :- | :-: | :- | :-: | :-: |
 | 4.6-5.4 | [2020 오픈소스 컨트리뷰톤](https://bit.ly/3bXJ9at) | - | 다양한 주제 | 무료 | 멘토모집중 |
 | 4.14-9.15 | [PAIP 2020](https://paip2020.grand-challenge.org/) | - | #의료 #AI | 무료 | - |
+| 4.23-4.25 | [Global Azure Virtual Korea 2020](https://github.com/krazure/gab2020kr/projects/1) | 온라인 | #Azure | 무료 | - |
 | 5.13 | [AWS Summit Online Korea](https://aws.amazon.com/ko/events/summits/online/korea/?sc_channel=em&sc_campaign=apac_field_t1_aws-summit-online-korea_20200513&sc_publisher=aws&sc_medium=em_&sc_content=event_ev_summit&sc_country=mult&sc_geo=mult&sc_category=mult&sc_outcome=event&trkCampaign=aws-online-summit&trk=em_summit_online_conf&mkt_tok=eyJpIjoiTm1RME1qazBOR00zT1RVNCIsInQiOiJTaWFTNHIrVTRMcktCa3RMQ0Z6YjAwYU8zbkNxUkx1YldaaEdUT0l4VitMakdKWTlqWUdDSzlnaldKbW9pdXFKeTlSMkNaeitRYVBnXC9ON25ycFdTWkFOZ2htK2JSWXR6VUp0ZXRCVFVTbk1oMVBhazFhaGhvN09zTjlQcWF6K2U3UnltbXlmZDZCMGZXT3Vpdzc5cndRPT0ifQ%3D%3D) | 온라인 | AWS | 무료 | - |
 | 6.3 | [Cloud-Barista Community Conference](http://www.allshowtv.com/detail.html?idx=199) | 온라인 | #멀티클라우드 | 무료 | - |
 | 6.18-6.23 | [JunctionX Asia 2020](https://app.hackjunction.com/events/junctionx-asia) | 온라인 | #해커톤 | 무료 | - |
