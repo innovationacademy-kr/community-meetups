@@ -42,7 +42,8 @@
  * [Festa!, 페스타](https://festa.io/)
  * [Meetup](https://www.meetup.com/ko-KR/)
  * [OnOffMix, 온오프믹스](https://www.onoffmix.com)
- * [전세계 개발자 행사(온라인으로 많이 진행되어 접근성이 높아져서 공유합니다](https://https://dev.events/)
+ * [전세계 개발자 행사(온라인으로 많이 진행되어 접근성이 높아져서 공유합니다)](https://dev.events/)
+
 ### 이 사이트 내용 수정
 
 찾는 행사가 이 목록에 없어 추가하시길 원하신다면, 개발자 이벤트를 직접 개최하신다면,
